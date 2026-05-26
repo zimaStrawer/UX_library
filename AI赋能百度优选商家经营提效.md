@@ -1,3 +1,5 @@
+https://www.uisdc.com/ai-driven-merchant-efficiency
+
 ![](assets/AI赋能百度优选商家经营提效/AI赋能百度优选商家经营提效%204.png)
 **1. 嵌入式交互：复杂表单灵活填写助手**
 ![](assets/AI赋能百度优选商家经营提效/AI赋能百度优选商家经营提效.png)
