@@ -11,7 +11,7 @@
   "emptyFolderBehavior": "DeleteWithEmptyParents",
   "excludePaths": [],
   "excludePathsFromAttachmentCollecting": [],
-  "generatedAttachmentFileName": "${noteFileName}-${date:{momentJsFormat:\"YYYYMMDDHHmmssSSS\"}}",
+  "generatedAttachmentFileName": "${noteFileName}",
   "includePaths": [],
   "jpegQuality": 0.8,
   "markdownUrlFormat": "",
