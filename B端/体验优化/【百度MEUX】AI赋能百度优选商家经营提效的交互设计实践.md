@@ -12,7 +12,7 @@
 AI赋能百度优选商家经营提效的设计实践
 
 
-![image](https://cdn-mineru.openxlab.org.cn/result/2026-06-03/d83652b8-bc91-4424-8f43-c46eb6205c48/7cecfdae074d02181ab7368e3c9ca210c5a898bfe7168c999acf9d9b8438a44c.jpg)
+![image](assets/meux-ai-8c14ec/image-001.jpg)
 
 
 ## 二、三大交互范式场景化应用
@@ -31,7 +31,7 @@ AI赋能百度优选商家经营提效的设计实践
 嵌入式交互：复杂表单灵活填写助手
 
 
-![image](https://cdn-mineru.openxlab.org.cn/result/2026-06-03/d83652b8-bc91-4424-8f43-c46eb6205c48/f675e2cbe6519696bb0c2e0f0215022555e14e33e2fa675c50c2f63b564f333e.jpg)
+![image](assets/meux-ai-8c14ec/image-002.jpg)
 
 
 ## 2.2 伴随式交互：全场景主动诊断助手
@@ -42,7 +42,7 @@ AI赋能百度优选商家经营提效的设计实践
 
 ## 主动触达
 
-![image](https://cdn-mineru.openxlab.org.cn/result/2026-06-03/d83652b8-bc91-4424-8f43-c46eb6205c48/cc70bce2c79074b62b1a60068f06f12760df9d7744c94fa23c3bab24a501673b.jpg)
+![image](assets/meux-ai-8c14ec/image-003.jpg)
 
 
 2、连续洞察：AI助手在提供建议或数据时，会附带清晰的思考过程与来源摘要，实现“可解释的AI”。同时，它能基于当前对话主动预测后续需求，智能推荐下一步操作（如“其他问题主动暴露：进一步分析体验分下降的原因”），将单点查询扩展为系统性的经营问题排查与解决链路，降低了获取完整决策依据的综合成本。
@@ -51,7 +51,7 @@ AI赋能百度优选商家经营提效的设计实践
 
 ## 连续洞察
 
-![image](https://cdn-mineru.openxlab.org.cn/result/2026-06-03/d83652b8-bc91-4424-8f43-c46eb6205c48/bbd2c2d1fb77cd25449e5aec8779d8c839154704c3f20b7b40f7858dafbbd6a4.jpg)
+![image](assets/meux-ai-8c14ec/image-004.jpg)
 
 
 ## 2.3 托管式交互：隐式安心服务管家
@@ -64,14 +64,14 @@ AI赋能百度优选商家经营提效的设计实践
 托管式交互：隐式安心服务管家
 
 
-![image](https://cdn-mineru.openxlab.org.cn/result/2026-06-03/d83652b8-bc91-4424-8f43-c46eb6205c48/061d1f22ed15e3f4fe79480458bf6cff60d761dc604a337f200a2772484f97e7.jpg)
+![image](assets/meux-ai-8c14ec/image-005.jpg)
 
 
 2、状态明确助人机接力：为了实现流畅的人机接力，我们在界面中清晰标识接待状态：全局接待状态置顶展示实时更新、会话列表实时动态分组、单人接待状态强化并自动更新（接待中/暂停接待）。当AI无法解答咨询问题（如复杂诉求、用户负面情绪）时，会话自动流转至“待人工回复”分组，并动态高亮+声音预警提示，确保人工快速接管。当人工直接回复买家后AI自动暂停并更新接待状态，AI自动生成会话摘要让商家能瞬间理解前因后果，将决策焦点从“发生了什么”转向“如何解决”，实现人工快速接管；客服可主动设置“恢复托管”，AI也会识别新会话时自动恢复接待，形成顺滑的人机协同机制。AI接待在买家视角也明确消息主体，人工接管后实时告知，让消费者感知服务连贯可靠。
 
 这套设计打造了商家敢用、愿用的自动化服务引擎。上线后，咨询响应时长缩短15.8%，商家满意度提升14%，同时引入AI回复后，买家满意度提升7.4%，实现了7×24小时规模化服务覆盖与服务质量的双重提升。
 
-![image](https://cdn-mineru.openxlab.org.cn/result/2026-06-03/d83652b8-bc91-4424-8f43-c46eb6205c48/75e47d59b35eeacf1c478c6c0f4d3db8eee3de9cf69e182d0dd7f8e3601f3f5b.jpg)
+![image](assets/meux-ai-8c14ec/image-006.jpg)
 
 
 ## 三、打造一套智能化感知体系
@@ -80,29 +80,29 @@ AI赋能百度优选商家经营提效的设计实践
 
 在视觉语言上，我们继承了百度APP中的AI标识和色彩，延续用户对“百度AI”专业、可信赖的既有认知，从而降低理解与学习成本。针对B端界面信息密集，需兼顾操作效率与视觉清晰度的特点，我们基于百度APP既有的高饱和智能感知色彩体系，结合现有组件，通过降低饱和度进行视觉降噪，构建了一套适配B端操作场景的浅色系列组件。同时，为弥补浅色体系下AI视觉感知相对弱化的问题，我们引入状态动效、声音提醒等多维反馈机制。通过感官协同，确保商家能清晰、即时地感知AI运行状态（如“AI智能接待中的扫光动画”），在复杂界面中仍保持信息传达效率和可靠性。
 
-![image](https://cdn-mineru.openxlab.org.cn/result/2026-06-03/d83652b8-bc91-4424-8f43-c46eb6205c48/46a24b1c9b673d6dd50ba844c42ef8c699716fa9715db02221b459ee91a608f5.jpg)
+![image](assets/meux-ai-8c14ec/image-007.jpg)
 
 
 
 智能化感知体系
 
 
-![image](https://cdn-mineru.openxlab.org.cn/result/2026-06-03/d83652b8-bc91-4424-8f43-c46eb6205c48/67bad0bcdeef3f0ef7a855c5e776fe4b9dcebea1b237710a4c2af7017d2cd26c.jpg)
+![image](assets/meux-ai-8c14ec/image-008.jpg)
 
 
-![image](https://cdn-mineru.openxlab.org.cn/result/2026-06-03/d83652b8-bc91-4424-8f43-c46eb6205c48/affc7f5246c1123f0a5e929d6c225f6ba4c5e2ae6fdfd2426df81afc986183cd.jpg)
+![image](assets/meux-ai-8c14ec/image-009.jpg)
 
 
-![image](https://cdn-mineru.openxlab.org.cn/result/2026-06-03/d83652b8-bc91-4424-8f43-c46eb6205c48/bb23ebfe3fa58279ca051d21754fb8720164417c3b12414a26416bcf04f421f1.jpg)
+![image](assets/meux-ai-8c14ec/image-010.jpg)
 
 
-![image](https://cdn-mineru.openxlab.org.cn/result/2026-06-03/d83652b8-bc91-4424-8f43-c46eb6205c48/8cfeba495ec5c35d64c48eb257d3b7472640efe5a32b681fdaf65e20f5b69222.jpg)
+![image](assets/meux-ai-8c14ec/image-011.jpg)
 
 
-![image](https://cdn-mineru.openxlab.org.cn/result/2026-06-03/d83652b8-bc91-4424-8f43-c46eb6205c48/999bafc93487067927e7541f300748e089c755bb67ee93448e35a5a21e86cb77.jpg)
+![image](assets/meux-ai-8c14ec/image-012.jpg)
 
 
-![image](https://cdn-mineru.openxlab.org.cn/result/2026-06-03/d83652b8-bc91-4424-8f43-c46eb6205c48/3b864ff6818100364f5981aa76ef91c639f7b0911b7549fb349ee306ee9d01c9.jpg)
+![image](assets/meux-ai-8c14ec/image-013.jpg)
 
 
 ## 四、AI设计的核心是“以商家提效为中心”的赋能
@@ -123,7 +123,7 @@ MEUX 招聘进行中，交互/视觉/用研
 
 以下文章，你可能也兴趣
 
-![image](https://cdn-mineru.openxlab.org.cn/result/2026-06-03/d83652b8-bc91-4424-8f43-c46eb6205c48/b25d2e714bf0d0e40e35c56ff69bf8ebedb1483bfb4588fe7e24691d499a5835.jpg)
+![image](assets/meux-ai-8c14ec/image-014.jpg)
 
 
 MEUX「十二月」AI设计观察

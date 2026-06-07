@@ -1,0 +1,708 @@
+{
+  "generatedAt": "2026-06-07T12:04:07.937Z",
+  "summary": {
+    "remote": 2016,
+    "localized": 2016,
+    "failed": 0,
+    "skipped": 0,
+    "failures": []
+  },
+  "results": [
+    {
+      "filePath": "/Users/zimastraw/Documents/UX_library/B端/知识笔记/9. B 端设计都在做什么？.md",
+      "remote": 1,
+      "localized": 1,
+      "failed": 0,
+      "skipped": 0,
+      "failures": []
+    },
+    {
+      "filePath": "/Users/zimastraw/Documents/UX_library/B端/体验优化/【百度MEUX】AI赋能百度优选商家经营提效的交互设计实践.md",
+      "remote": 14,
+      "localized": 14,
+      "failed": 0,
+      "skipped": 0,
+      "failures": []
+    },
+    {
+      "filePath": "/Users/zimastraw/Documents/UX_library/B端/体验优化/【京东体验设计中心】B端体验深耕-洞察用户诉求，打造心有灵犀的使用体验.md",
+      "remote": 23,
+      "localized": 23,
+      "failed": 0,
+      "skipped": 0,
+      "failures": []
+    },
+    {
+      "filePath": "/Users/zimastraw/Documents/UX_library/C端/体验优化/【CXD设计部】小桔有车租买车业务体验设计升级.md",
+      "remote": 24,
+      "localized": 24,
+      "failed": 0,
+      "skipped": 0,
+      "failures": []
+    },
+    {
+      "filePath": "/Users/zimastraw/Documents/UX_library/C端/体验优化/【京东体验设计中心】到用户场景中去洞察用户需求.md",
+      "remote": 8,
+      "localized": 8,
+      "failed": 0,
+      "skipped": 0,
+      "failures": []
+    },
+    {
+      "filePath": "/Users/zimastraw/Documents/UX_library/C端/体验优化/【Douyin_Design】抖音「休息提醒」设计探索.md",
+      "remote": 20,
+      "localized": 20,
+      "failed": 0,
+      "skipped": 0,
+      "failures": []
+    },
+    {
+      "filePath": "/Users/zimastraw/Documents/UX_library/B端/体验优化/【淘宝设计】以商家意图为中心的AI千牛设计探索.md",
+      "remote": 46,
+      "localized": 46,
+      "failed": 0,
+      "skipped": 0,
+      "failures": []
+    },
+    {
+      "filePath": "/Users/zimastraw/Documents/UX_library/C端/体验优化/【京东体验设计中心】浅谈一号会员店如何高质量拉新.md",
+      "remote": 16,
+      "localized": 16,
+      "failed": 0,
+      "skipped": 0,
+      "failures": []
+    },
+    {
+      "filePath": "/Users/zimastraw/Documents/UX_library/C端/体验优化/【优设网】用户体验精选/【优设网】5亿人在用的淘宝，如何让AI和电商无缝结合？.md",
+      "remote": 15,
+      "localized": 15,
+      "failed": 0,
+      "skipped": 0,
+      "failures": []
+    },
+    {
+      "filePath": "/Users/zimastraw/Documents/UX_library/B端/体验优化/【淘宝闪购设计】干货！揭秘POS机的软硬件交互原则.md",
+      "remote": 67,
+      "localized": 67,
+      "failed": 0,
+      "skipped": 0,
+      "failures": []
+    },
+    {
+      "filePath": "/Users/zimastraw/Documents/UX_library/B端/体验优化/【百度MEUX】工业品的专业化探索—爱采购商品详情页升级.md",
+      "remote": 73,
+      "localized": 73,
+      "failed": 0,
+      "skipped": 0,
+      "failures": []
+    },
+    {
+      "filePath": "/Users/zimastraw/Documents/UX_library/C端/体验优化/【京东体验设计中心】言之有理：界面交互文案设计策略.md",
+      "remote": 51,
+      "localized": 51,
+      "failed": 0,
+      "skipped": 0,
+      "failures": []
+    },
+    {
+      "filePath": "/Users/zimastraw/Documents/UX_library/C端/体验优化/【京东体验设计中心】达达快送9.0升级设计复盘.md",
+      "remote": 46,
+      "localized": 46,
+      "failed": 0,
+      "skipped": 0,
+      "failures": []
+    },
+    {
+      "filePath": "/Users/zimastraw/Documents/UX_library/C端/体验优化/【优设网】用户体验精选/【优设网】1亿用户都在用！深度拆解 Strava 的高留存上瘾设计机制.md",
+      "remote": 23,
+      "localized": 23,
+      "failed": 0,
+      "skipped": 0,
+      "failures": []
+    },
+    {
+      "filePath": "/Users/zimastraw/Documents/UX_library/C端/体验优化/【优设网】用户体验精选/【优设网】低成本撬动高转化！深入分析微信近一年最成功的设计增长案例.md",
+      "remote": 10,
+      "localized": 10,
+      "failed": 0,
+      "skipped": 0,
+      "failures": []
+    },
+    {
+      "filePath": "/Users/zimastraw/Documents/UX_library/C端/体验优化/【优设网】用户体验精选/【优设网】AI如何重构就医全流程？深度拆解阿里产品「蚂蚁阿福」.md",
+      "remote": 12,
+      "localized": 12,
+      "failed": 0,
+      "skipped": 0,
+      "failures": []
+    },
+    {
+      "filePath": "/Users/zimastraw/Documents/UX_library/C端/体验优化/【优设网】用户体验精选/【优设网】像聊天一样学外语！深度拆解5000万用户的HelloTalk产品设计.md",
+      "remote": 10,
+      "localized": 10,
+      "failed": 0,
+      "skipped": 0,
+      "failures": []
+    },
+    {
+      "filePath": "/Users/zimastraw/Documents/UX_library/C端/体验优化/【优设网】用户体验精选/【优设网】大厂实战案例！快速提升购买转化的6个实用方法.md",
+      "remote": 17,
+      "localized": 17,
+      "failed": 0,
+      "skipped": 0,
+      "failures": []
+    },
+    {
+      "filePath": "/Users/zimastraw/Documents/UX_library/C端/体验优化/【优设网】用户体验精选/【优设网】大厂实战案例！淘宝APP购物体验设计优化复盘.md",
+      "remote": 14,
+      "localized": 14,
+      "failed": 0,
+      "skipped": 0,
+      "failures": []
+    },
+    {
+      "filePath": "/Users/zimastraw/Documents/UX_library/C端/体验优化/【优设网】用户体验精选/【优设网】大厂实战案例！设计师如何助力京东快递业务增长？.md",
+      "remote": 19,
+      "localized": 19,
+      "failed": 0,
+      "skipped": 0,
+      "failures": []
+    },
+    {
+      "filePath": "/Users/zimastraw/Documents/UX_library/C端/体验优化/【优设网】用户体验精选/【优设网】大厂设计复盘！携程会员体系如何提升黑钻身份感知？.md",
+      "remote": 15,
+      "localized": 15,
+      "failed": 0,
+      "skipped": 0,
+      "failures": []
+    },
+    {
+      "filePath": "/Users/zimastraw/Documents/UX_library/C端/体验优化/【优设网】用户体验精选/【优设网】提高18%转化率！付费弹窗的设计优化实战复盘.md",
+      "remote": 12,
+      "localized": 12,
+      "failed": 0,
+      "skipped": 0,
+      "failures": []
+    },
+    {
+      "filePath": "/Users/zimastraw/Documents/UX_library/C端/体验优化/【优设网】用户体验精选/【优设网】快看速买！淘宝秒杀频道设计改版完整复盘.md",
+      "remote": 14,
+      "localized": 14,
+      "failed": 0,
+      "skipped": 0,
+      "failures": []
+    },
+    {
+      "filePath": "/Users/zimastraw/Documents/UX_library/C端/体验优化/【优设网】用户体验精选/【优设网】想做好会员体系设计？来看百度APP的案例复盘！.md",
+      "remote": 19,
+      "localized": 19,
+      "failed": 0,
+      "skipped": 0,
+      "failures": []
+    },
+    {
+      "filePath": "/Users/zimastraw/Documents/UX_library/C端/体验优化/【优设网】用户体验精选/【优设网】9000字拆解！「滴滴出行」11种出行场景交互设计解析.md",
+      "remote": 40,
+      "localized": 40,
+      "failed": 0,
+      "skipped": 0,
+      "failures": []
+    },
+    {
+      "filePath": "/Users/zimastraw/Documents/UX_library/C端/体验优化/【优设网】用户体验精选/【优设网】携程做的这款AI旅游产品，凭什么拿下设计大奖？.md",
+      "remote": 19,
+      "localized": 19,
+      "failed": 0,
+      "skipped": 0,
+      "failures": []
+    },
+    {
+      "filePath": "/Users/zimastraw/Documents/UX_library/C端/体验优化/【优设网】用户体验精选/【优设网】大厂设计实战！教你打造一套完整的用户裂变增长方案.md",
+      "remote": 40,
+      "localized": 40,
+      "failed": 0,
+      "skipped": 0,
+      "failures": []
+    },
+    {
+      "filePath": "/Users/zimastraw/Documents/UX_library/C端/体验优化/【优设网】用户体验精选/【优设网】用京东2个爆款案例，聊聊如何驱动用户转化？.md",
+      "remote": 17,
+      "localized": 17,
+      "failed": 0,
+      "skipped": 0,
+      "failures": []
+    },
+    {
+      "filePath": "/Users/zimastraw/Documents/UX_library/C端/体验优化/【优设网】用户体验精选/【优设网】大厂案例实战！如何做好银发人群的服务体验设计？.md",
+      "remote": 39,
+      "localized": 39,
+      "failed": 0,
+      "skipped": 0,
+      "failures": []
+    },
+    {
+      "filePath": "/Users/zimastraw/Documents/UX_library/C端/体验优化/【优设网】用户体验精选/【优设网】用户体验地图设计指南（下篇）：构成拆解与流程实操.md",
+      "remote": 17,
+      "localized": 17,
+      "failed": 0,
+      "skipped": 0,
+      "failures": []
+    },
+    {
+      "filePath": "/Users/zimastraw/Documents/UX_library/C端/体验优化/【优设网】用户体验精选/【优设网】有爱的设计！腾讯团队帮助盲人按摩店提升用户体验全过程.md",
+      "remote": 28,
+      "localized": 28,
+      "failed": 0,
+      "skipped": 0,
+      "failures": []
+    },
+    {
+      "filePath": "/Users/zimastraw/Documents/UX_library/C端/体验优化/【优设网】用户体验精选/【优设网】用百度果园的实战案例，帮你掌握运营活动的增长设计方法.md",
+      "remote": 15,
+      "localized": 15,
+      "failed": 0,
+      "skipped": 0,
+      "failures": []
+    },
+    {
+      "filePath": "/Users/zimastraw/Documents/UX_library/C端/体验优化/【优设网】用户体验精选/【优设网】用秒杀会场的实战案例，帮你掌握福格模型的实际应用.md",
+      "remote": 11,
+      "localized": 11,
+      "failed": 0,
+      "skipped": 0,
+      "failures": []
+    },
+    {
+      "filePath": "/Users/zimastraw/Documents/UX_library/C端/体验优化/【优设网】用户体验精选/【优设网】用实战案例，帮你掌握增长设计必学的AARRR模型.md",
+      "remote": 26,
+      "localized": 26,
+      "failed": 0,
+      "skipped": 0,
+      "failures": []
+    },
+    {
+      "filePath": "/Users/zimastraw/Documents/UX_library/C端/体验优化/【优设网】用户体验精选/【优设网】超多知识点！服务设计概述及国内外案例分析.md",
+      "remote": 9,
+      "localized": 9,
+      "failed": 0,
+      "skipped": 0,
+      "failures": []
+    },
+    {
+      "filePath": "/Users/zimastraw/Documents/UX_library/C端/体验优化/【优设网】用户体验精选/【优设网】让1.2亿人开口学英文！拆解全球最大语言学习社区Busuu.md",
+      "remote": 22,
+      "localized": 22,
+      "failed": 0,
+      "skipped": 0,
+      "failures": []
+    },
+    {
+      "filePath": "/Users/zimastraw/Documents/UX_library/C端/体验优化/【优设网】用户体验精选/【优设网】超多案例！揭秘顶级减肥APP背后的行为设计秘诀.md",
+      "remote": 16,
+      "localized": 16,
+      "failed": 0,
+      "skipped": 0,
+      "failures": []
+    },
+    {
+      "filePath": "/Users/zimastraw/Documents/UX_library/C端/体验优化/【优设网】用户体验精选/【优设网】超多案例！3个设计策略让你的AI产品更加人性化！.md",
+      "remote": 18,
+      "localized": 18,
+      "failed": 0,
+      "skipped": 0,
+      "failures": []
+    },
+    {
+      "filePath": "/Users/zimastraw/Documents/UX_library/C端/体验优化/【百度MEUX】UI百度APP度会员焕新升级.md",
+      "remote": 17,
+      "localized": 17,
+      "failed": 0,
+      "skipped": 0,
+      "failures": []
+    },
+    {
+      "filePath": "/Users/zimastraw/Documents/UX_library/C端/体验优化/【百度MEUX】AI创新设计：捏合总结的实践与思考.md",
+      "remote": 37,
+      "localized": 37,
+      "failed": 0,
+      "skipped": 0,
+      "failures": []
+    },
+    {
+      "filePath": "/Users/zimastraw/Documents/UX_library/C端/体验优化/【淘宝闪购设计】如何重构导购动线，打造专业的买药体验.md",
+      "remote": 84,
+      "localized": 84,
+      "failed": 0,
+      "skipped": 0,
+      "failures": []
+    },
+    {
+      "filePath": "/Users/zimastraw/Documents/UX_library/C端/体验优化/【百度MEUX】全星体验—度加APP积分系统升级.md",
+      "remote": 29,
+      "localized": 29,
+      "failed": 0,
+      "skipped": 0,
+      "failures": []
+    },
+    {
+      "filePath": "/Users/zimastraw/Documents/UX_library/C端/体验优化/【百度MEUX】百度优选—黄金购买链路体验升级.md",
+      "remote": 30,
+      "localized": 30,
+      "failed": 0,
+      "skipped": 0,
+      "failures": []
+    },
+    {
+      "filePath": "/Users/zimastraw/Documents/UX_library/C端/体验优化/【百度MEUX】UI百度频道场景化焕新升级.md",
+      "remote": 54,
+      "localized": 54,
+      "failed": 0,
+      "skipped": 0,
+      "failures": []
+    },
+    {
+      "filePath": "/Users/zimastraw/Documents/UX_library/C端/体验优化/【百度MEUX】视频便捷手势_交互设计探索.md",
+      "remote": 37,
+      "localized": 37,
+      "failed": 0,
+      "skipped": 0,
+      "failures": []
+    },
+    {
+      "filePath": "/Users/zimastraw/Documents/UX_library/交互设计/【优设网】交互设计精选/【优设网】4000字干货！超多案例的B端设计指南：导航（一）.md",
+      "remote": 15,
+      "localized": 15,
+      "failed": 0,
+      "skipped": 0,
+      "failures": []
+    },
+    {
+      "filePath": "/Users/zimastraw/Documents/UX_library/交互设计/【优设网】交互设计精选/【优设网】AI如何给交互设计提效？来看百度的实战案例！.md",
+      "remote": 9,
+      "localized": 9,
+      "failed": 0,
+      "skipped": 0,
+      "failures": []
+    },
+    {
+      "filePath": "/Users/zimastraw/Documents/UX_library/交互设计/【优设网】交互设计精选/【优设网】8600字深度干货！「双钻模型」全方位解读与实战案例.md",
+      "remote": 30,
+      "localized": 30,
+      "failed": 0,
+      "skipped": 0,
+      "failures": []
+    },
+    {
+      "filePath": "/Users/zimastraw/Documents/UX_library/交互设计/【优设网】交互设计精选/【优设网】为什么很多大厂主按钮不用主题色？原来还有这5个设计方法！.md",
+      "remote": 32,
+      "localized": 32,
+      "failed": 0,
+      "skipped": 0,
+      "failures": []
+    },
+    {
+      "filePath": "/Users/zimastraw/Documents/UX_library/交互设计/【优设网】交互设计精选/【优设网】交互设计师是如何产出交互方案的？来看这个改版实战案例！.md",
+      "remote": 10,
+      "localized": 10,
+      "failed": 0,
+      "skipped": 0,
+      "failures": []
+    },
+    {
+      "filePath": "/Users/zimastraw/Documents/UX_library/交互设计/【优设网】交互设计精选/【优设网】为何加载动画是AI产品必不可少的设计？这7个案例告诉你！.md",
+      "remote": 11,
+      "localized": 11,
+      "failed": 0,
+      "skipped": 0,
+      "failures": []
+    },
+    {
+      "filePath": "/Users/zimastraw/Documents/UX_library/交互设计/【优设网】交互设计精选/【优设网】5300字大厂干货！深度分析运营类活动的设计方法.md",
+      "remote": 45,
+      "localized": 45,
+      "failed": 0,
+      "skipped": 0,
+      "failures": []
+    },
+    {
+      "filePath": "/Users/zimastraw/Documents/UX_library/C端/体验优化/【优设网】用户体验精选/【优设网】百度实战案例！百科AI对话式体验设计完整复盘.md",
+      "remote": 26,
+      "localized": 26,
+      "failed": 0,
+      "skipped": 0,
+      "failures": []
+    },
+    {
+      "filePath": "/Users/zimastraw/Documents/UX_library/交互设计/【优设网】交互设计精选/【优设网】从列表到详情：提升用户转化的7种方法.md",
+      "remote": 12,
+      "localized": 12,
+      "failed": 0,
+      "skipped": 0,
+      "failures": []
+    },
+    {
+      "filePath": "/Users/zimastraw/Documents/UX_library/交互设计/【优设网】交互设计精选/【优设网】大厂B端实战！提效90%的列表是如何设计的？.md",
+      "remote": 13,
+      "localized": 13,
+      "failed": 0,
+      "skipped": 0,
+      "failures": []
+    },
+    {
+      "filePath": "/Users/zimastraw/Documents/UX_library/交互设计/【优设网】交互设计精选/【优设网】万字干货！11个章节深度思考人工智能体验设计.md",
+      "remote": 16,
+      "localized": 16,
+      "failed": 0,
+      "skipped": 0,
+      "failures": []
+    },
+    {
+      "filePath": "/Users/zimastraw/Documents/UX_library/交互设计/【优设网】交互设计精选/【优设网】大厂实战案例！京东物流AI问答助手体验设计完整复盘.md",
+      "remote": 28,
+      "localized": 28,
+      "failed": 0,
+      "skipped": 0,
+      "failures": []
+    },
+    {
+      "filePath": "/Users/zimastraw/Documents/UX_library/交互设计/【优设网】交互设计精选/【优设网】大厂案例！PC端地图页面交互设计规范复盘.md",
+      "remote": 15,
+      "localized": 15,
+      "failed": 0,
+      "skipped": 0,
+      "failures": []
+    },
+    {
+      "filePath": "/Users/zimastraw/Documents/UX_library/交互设计/【优设网】交互设计精选/【优设网】如何做好门票详情页改版？我深度分析了美团的设计.md",
+      "remote": 15,
+      "localized": 15,
+      "failed": 0,
+      "skipped": 0,
+      "failures": []
+    },
+    {
+      "filePath": "/Users/zimastraw/Documents/UX_library/交互设计/【优设网】交互设计精选/【优设网】如何让按钮转化率更高？收下这7条微文案建议！.md",
+      "remote": 6,
+      "localized": 6,
+      "failed": 0,
+      "skipped": 0,
+      "failures": []
+    },
+    {
+      "filePath": "/Users/zimastraw/Documents/UX_library/交互设计/【优设网】交互设计精选/【优设网】大厂实战！上亿人使用的百度「一刻相册」是如何从零开始设计出来的？.md",
+      "remote": 38,
+      "localized": 38,
+      "failed": 0,
+      "skipped": 0,
+      "failures": []
+    },
+    {
+      "filePath": "/Users/zimastraw/Documents/UX_library/交互设计/【优设网】交互设计精选/【优设网】如何做好人机对话设计？来看腾讯高手的总结！.md",
+      "remote": 40,
+      "localized": 40,
+      "failed": 0,
+      "skipped": 0,
+      "failures": []
+    },
+    {
+      "filePath": "/Users/zimastraw/Documents/UX_library/交互设计/【优设网】交互设计精选/【优设网】如何选择筛选控件？5000字+3个落地案例详细拆解.md",
+      "remote": 17,
+      "localized": 17,
+      "failed": 0,
+      "skipped": 0,
+      "failures": []
+    },
+    {
+      "filePath": "/Users/zimastraw/Documents/UX_library/交互设计/【优设网】交互设计精选/【优设网】案例实战！验证码的应用场景和交互流程超全面总结.md",
+      "remote": 10,
+      "localized": 10,
+      "failed": 0,
+      "skipped": 0,
+      "failures": []
+    },
+    {
+      "filePath": "/Users/zimastraw/Documents/UX_library/交互设计/【优设网】交互设计精选/【优设网】用一个实战案例，帮你掌握交互设计中的帮助原则.md",
+      "remote": 8,
+      "localized": 8,
+      "failed": 0,
+      "skipped": 0,
+      "failures": []
+    },
+    {
+      "filePath": "/Users/zimastraw/Documents/UX_library/交互设计/【优设网】交互设计精选/【优设网】想做靠谱的APP？先掌握大厂这套「反馈设计」方法！.md",
+      "remote": 31,
+      "localized": 31,
+      "failed": 0,
+      "skipped": 0,
+      "failures": []
+    },
+    {
+      "filePath": "/Users/zimastraw/Documents/UX_library/交互设计/【优设网】交互设计精选/【优设网】用四大章节，总结AI智能体交互设计的高频问题.md",
+      "remote": 33,
+      "localized": 33,
+      "failed": 0,
+      "skipped": 0,
+      "failures": []
+    },
+    {
+      "filePath": "/Users/zimastraw/Documents/UX_library/交互设计/【优设网】交互设计精选/【优设网】用美团神抢手的案例，帮你快速掌握交互方案的设计思路.md",
+      "remote": 17,
+      "localized": 17,
+      "failed": 0,
+      "skipped": 0,
+      "failures": []
+    },
+    {
+      "filePath": "/Users/zimastraw/Documents/UX_library/交互设计/【优设网】交互设计精选/【优设网】用超多案例，帮你掌握10大可用性设计原则.md",
+      "remote": 12,
+      "localized": 12,
+      "failed": 0,
+      "skipped": 0,
+      "failures": []
+    },
+    {
+      "filePath": "/Users/zimastraw/Documents/UX_library/交互设计/【优设网】交互设计精选/【优设网】实战案例复盘！36氪APP 9.0全新设计升级背后的思路.md",
+      "remote": 29,
+      "localized": 29,
+      "failed": 0,
+      "skipped": 0,
+      "failures": []
+    },
+    {
+      "filePath": "/Users/zimastraw/Documents/UX_library/交互设计/【优设网】交互设计精选/【优设网】用超多案例，帮你掌握交互设计心理学的古腾堡原则.md",
+      "remote": 11,
+      "localized": 11,
+      "failed": 0,
+      "skipped": 0,
+      "failures": []
+    },
+    {
+      "filePath": "/Users/zimastraw/Documents/UX_library/C端/体验优化/【优设网】用户体验精选/【优设网】用一个实战案例，帮你熟悉大厂体验设计的搭建流程.md",
+      "remote": 25,
+      "localized": 25,
+      "failed": 0,
+      "skipped": 0,
+      "failures": []
+    },
+    {
+      "filePath": "/Users/zimastraw/Documents/UX_library/交互设计/【优设网】交互设计精选/【优设网】从6个方面，详细拆解运营弹窗的设计要点.md",
+      "remote": 18,
+      "localized": 18,
+      "failed": 0,
+      "skipped": 0,
+      "failures": []
+    },
+    {
+      "filePath": "/Users/zimastraw/Documents/UX_library/交互设计/【优设网】交互设计精选/【优设网】用大量实战案例，帮你掌握 Web 端的搜索框设计.md",
+      "remote": 39,
+      "localized": 39,
+      "failed": 0,
+      "skipped": 0,
+      "failures": []
+    },
+    {
+      "filePath": "/Users/zimastraw/Documents/UX_library/交互设计/【优设网】交互设计精选/【优设网】用超多经典游戏，帮你掌握3个引导设计方法.md",
+      "remote": 19,
+      "localized": 19,
+      "failed": 0,
+      "skipped": 0,
+      "failures": []
+    },
+    {
+      "filePath": "/Users/zimastraw/Documents/UX_library/交互设计/【优设网】交互设计精选/【优设网】短视频应用如何做好沉浸式体验设计？来看百度的实战案例！.md",
+      "remote": 17,
+      "localized": 17,
+      "failed": 0,
+      "skipped": 0,
+      "failures": []
+    },
+    {
+      "filePath": "/Users/zimastraw/Documents/UX_library/交互设计/【优设网】交互设计精选/【优设网】超全总结！4个章节教你避免实时表单验证的失败案例.md",
+      "remote": 4,
+      "localized": 4,
+      "failed": 0,
+      "skipped": 0,
+      "failures": []
+    },
+    {
+      "filePath": "/Users/zimastraw/Documents/UX_library/交互设计/【优设网】交互设计精选/【优设网】设计师如何处理任务及优化流程？用实战案例帮你掌握！.md",
+      "remote": 12,
+      "localized": 12,
+      "failed": 0,
+      "skipped": 0,
+      "failures": []
+    },
+    {
+      "filePath": "/Users/zimastraw/Documents/UX_library/交互设计/【优设网】交互设计精选/【优设网】超多案例！5 个设计心理学核心概念之：映射.md",
+      "remote": 15,
+      "localized": 15,
+      "failed": 0,
+      "skipped": 0,
+      "failures": []
+    },
+    {
+      "filePath": "/Users/zimastraw/Documents/UX_library/交互设计/【优设网】交互设计精选/【优设网】营销还得看大厂！2025淘宝大促主互动设计实战案例.md",
+      "remote": 13,
+      "localized": 13,
+      "failed": 0,
+      "skipped": 0,
+      "failures": []
+    },
+    {
+      "filePath": "/Users/zimastraw/Documents/UX_library/交互设计/【优设网】交互设计精选/【优设网】遇到复杂表单，用这3个核心方法提高用户体验.md",
+      "remote": 9,
+      "localized": 9,
+      "failed": 0,
+      "skipped": 0,
+      "failures": []
+    },
+    {
+      "filePath": "/Users/zimastraw/Documents/UX_library/交互设计/【优设网】交互设计精选/【优设网】高手案例实战！猫狗洗护预约小程序改版设计复盘.md",
+      "remote": 16,
+      "localized": 16,
+      "failed": 0,
+      "skipped": 0,
+      "failures": []
+    },
+    {
+      "filePath": "/Users/zimastraw/Documents/UX_library/交互设计/【优设网】交互设计精选/【优设网】这套规范超好用！交互说明文档格式优化实战案例.md",
+      "remote": 19,
+      "localized": 19,
+      "failed": 0,
+      "skipped": 0,
+      "failures": []
+    },
+    {
+      "filePath": "/Users/zimastraw/Documents/UX_library/交互设计/【优设网】交互设计精选/【优设网】大屏手机单手模式如何设计？我收集了大厂常用的3个方法.md",
+      "remote": 23,
+      "localized": 23,
+      "failed": 0,
+      "skipped": 0,
+      "failures": []
+    },
+    {
+      "filePath": "/Users/zimastraw/Documents/UX_library/交互设计/【优设网】交互设计精选/【优设网】用超多案例，帮你掌握APP设计的手势交互（上）.md",
+      "remote": 30,
+      "localized": 30,
+      "failed": 0,
+      "skipped": 0,
+      "failures": []
+    },
+    {
+      "filePath": "/Users/zimastraw/Documents/UX_library/交互设计/【优设网】交互设计精选/【优设网】超多案例！常见的B端弹窗样式设计总结.md",
+      "remote": 31,
+      "localized": 31,
+      "failed": 0,
+      "skipped": 0,
+      "failures": []
+    },
+    {
+      "filePath": "/Users/zimastraw/Documents/UX_library/交互设计/【优设网】交互设计精选/【优设网】资深交互设计师是如何出稿的？来看实战案例分析！.md",
+      "remote": 23,
+      "localized": 23,
+      "failed": 0,
+      "skipped": 0,
+      "failures": []
+    }
+  ]
+}

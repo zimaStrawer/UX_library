@@ -23,22 +23,22 @@
 
 ## 原文图片
 
-![原文图片 1](https://image.uisdc.com/wp-content/uploads/2026/01/ysbanner-20260106-1-1.webp)
+![原文图片 1](assets/hellotalk/image-001.webp)
 
-![原文图片 2](https://image.uisdc.com/wp-content/uploads/2026/01/ea6f6baf0fa70312ecac51f79d1cb553.webp)
+![原文图片 2](assets/hellotalk/image-002.webp)
 
-![原文图片 3](https://image.uisdc.com/wp-content/uploads/2026/01/b50e1ea281c053591dbfd0b9500cda08.webp)
+![原文图片 3](assets/hellotalk/image-003.webp)
 
-![原文图片 4](https://image.uisdc.com/wp-content/uploads/2026/01/c91bfc41a51f231faa3f2e19620aa220.webp)
+![原文图片 4](assets/hellotalk/image-004.webp)
 
-![原文图片 5](https://image.uisdc.com/wp-content/uploads/2026/01/44d3db56802abdb730306205afb87cea.webp)
+![原文图片 5](assets/hellotalk/image-005.webp)
 
-![原文图片 6](https://image.uisdc.com/wp-content/uploads/2026/01/91d1b44b449450fd89b1a2943c574fc8.webp)
+![原文图片 6](assets/hellotalk/image-006.webp)
 
-![原文图片 7](https://image.uisdc.com/wp-content/uploads/2026/01/ea5e2b25960210b9f64dd2ce9ce001fe.webp)
+![原文图片 7](assets/hellotalk/image-007.webp)
 
-![原文图片 8](https://image.uisdc.com/wp-content/uploads/2026/01/1dee74c0f8635f83ffdc7c9562edcaab.webp)
+![原文图片 8](assets/hellotalk/image-008.webp)
 
-![原文图片 9](https://image.uisdc.com/wp-content/uploads/2026/01/8113cfb880097f710fccb35dc1d1b5e8.webp)
+![原文图片 9](assets/hellotalk/image-009.webp)
 
-![原文图片 10](https://image.uisdc.com/wp-content/uploads/2026/04/20260410-uisdcbanner-aikt.webp)
+![原文图片 10](assets/hellotalk/image-010.webp)

@@ -25,62 +25,62 @@ APP 手势交互案例，适合沉淀手势的可发现性、反馈和误触控�
 
 ## 原文图片
 
-![原文图片 1](https://image.uisdc.com/wp-content/uploads/2021/12/uisdc-hm-20211202-1.png)
+![原文图片 1](assets/gesture-interaction/image-001.png)
 
-![原文图片 2](https://image.uisdc.com/wp-content/uploads/2021/12/uisdc-hm-20211202-2.png)
+![原文图片 2](assets/gesture-interaction/image-002.png)
 
-![原文图片 3](https://image.uisdc.com/wp-content/uploads/2021/12/uisdc-hm-20211202-3.png)
+![原文图片 3](assets/gesture-interaction/image-003.png)
 
-![原文图片 4](https://image.uisdc.com/wp-content/uploads/2021/12/uisdc-hm-20211202-4.png)
+![原文图片 4](assets/gesture-interaction/image-004.png)
 
-![原文图片 5](https://image.uisdc.com/wp-content/uploads/2021/12/uisdc-hm-20211202-5.png)
+![原文图片 5](assets/gesture-interaction/image-005.png)
 
-![原文图片 6](https://image.uisdc.com/wp-content/uploads/2021/12/uisdc-hm-20211202-6.png)
+![原文图片 6](assets/gesture-interaction/image-006.png)
 
-![原文图片 7](https://image.uisdc.com/wp-content/uploads/2021/12/uisdc-hm-20211202-7.png)
+![原文图片 7](assets/gesture-interaction/image-007.png)
 
-![原文图片 8](https://image.uisdc.com/wp-content/uploads/2021/12/uisdc-hm-20211202-8.png)
+![原文图片 8](assets/gesture-interaction/image-008.png)
 
-![原文图片 9](https://image.uisdc.com/wp-content/uploads/2021/12/uisdc-hm-20211202-9.png)
+![原文图片 9](assets/gesture-interaction/image-009.png)
 
-![原文图片 10](https://image.uisdc.com/wp-content/uploads/2021/12/uisdc-hm-20211202-10.png)
+![原文图片 10](assets/gesture-interaction/image-010.png)
 
-![原文图片 11](https://image.uisdc.com/wp-content/uploads/2021/12/uisdc-hm-20211202-11.png)
+![原文图片 11](assets/gesture-interaction/image-011.png)
 
-![原文图片 12](https://image.uisdc.com/wp-content/uploads/2021/12/uisdc-hm-20211202-12.png)
+![原文图片 12](assets/gesture-interaction/image-012.png)
 
-![原文图片 13](https://image.uisdc.com/wp-content/uploads/2021/12/uisdc-hm-20211202-13.png)
+![原文图片 13](assets/gesture-interaction/image-013.png)
 
-![原文图片 14](https://image.uisdc.com/wp-content/uploads/2021/12/uisdc-hm-20211202-14.gif)
+![原文图片 14](assets/gesture-interaction/image-014.gif)
 
-![原文图片 15](https://image.uisdc.com/wp-content/uploads/2021/12/uisdc-hm-20211202-15.gif)
+![原文图片 15](assets/gesture-interaction/image-015.gif)
 
-![原文图片 16](https://image.uisdc.com/wp-content/uploads/2021/12/uisdc-hm-20211202-16.gif)
+![原文图片 16](assets/gesture-interaction/image-016.gif)
 
-![原文图片 17](https://image.uisdc.com/wp-content/uploads/2021/12/uisdc-hm-20211202-17.png)
+![原文图片 17](assets/gesture-interaction/image-017.png)
 
-![原文图片 18](https://image.uisdc.com/wp-content/uploads/2021/12/uisdc-hm-20211202-18.png)
+![原文图片 18](assets/gesture-interaction/image-018.png)
 
-![原文图片 19](https://image.uisdc.com/wp-content/uploads/2021/12/uisdc-hm-20211202-19.png)
+![原文图片 19](assets/gesture-interaction/image-019.png)
 
-![原文图片 20](https://image.uisdc.com/wp-content/uploads/2021/12/uisdc-hm-20211202-20.png)
+![原文图片 20](assets/gesture-interaction/image-020.png)
 
-![原文图片 21](https://image.uisdc.com/wp-content/uploads/2021/12/uisdc-hm-20211202-21.png)
+![原文图片 21](assets/gesture-interaction/image-021.png)
 
-![原文图片 22](https://image.uisdc.com/wp-content/uploads/2021/12/uisdc-hm-20211202-22.png)
+![原文图片 22](assets/gesture-interaction/image-022.png)
 
-![原文图片 23](https://image.uisdc.com/wp-content/uploads/2021/12/uisdc-hm-20211202-23.gif)
+![原文图片 23](assets/gesture-interaction/image-023.gif)
 
-![原文图片 24](https://image.uisdc.com/wp-content/uploads/2021/12/uisdc-hm-20211202-24.png)
+![原文图片 24](assets/gesture-interaction/image-024.png)
 
-![原文图片 25](https://image.uisdc.com/wp-content/uploads/2021/12/uisdc-hm-20211202-25.gif)
+![原文图片 25](assets/gesture-interaction/image-025.gif)
 
-![原文图片 26](https://image.uisdc.com/wp-content/uploads/2021/12/uisdc-hm-20211202-26.png)
+![原文图片 26](assets/gesture-interaction/image-026.png)
 
-![原文图片 27](https://image.uisdc.com/wp-content/uploads/2021/12/uisdc-hm-20211202-27.gif)
+![原文图片 27](assets/gesture-interaction/image-027.gif)
 
-![原文图片 28](https://image.uisdc.com/wp-content/uploads/2021/12/uisdc-hm-20211202-28.png)
+![原文图片 28](assets/gesture-interaction/image-028.png)
 
-![原文图片 29](https://image.uisdc.com/wp-content/uploads/2019/03/xssjqr.jpg)
+![原文图片 29](assets/gesture-interaction/image-029.jpg)
 
-![原文图片 30](https://image.uisdc.com/wp-content/uploads/2026/04/20260410-uisdcbanner-aikt.webp)
+![原文图片 30](assets/gesture-interaction/image-030.webp)

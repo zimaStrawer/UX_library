@@ -23,54 +23,54 @@ AARRR 模型，适合补充 C 端增长链路方法
 
 ## 原文图片
 
-![原文图片 1](https://image.uisdc.com/wp-content/uploads/2023/07/ysbanner-202300704-4-1.jpg)
+![原文图片 1](assets/aarrr/image-001.jpg)
 
-![原文图片 2](https://image.uisdc.com/wp-content/uploads/2023/07/uisdc-je-20230703-1.jpg)
+![原文图片 2](assets/aarrr/image-002.jpg)
 
-![原文图片 3](https://image.uisdc.com/wp-content/uploads/2023/07/uisdc-je-20230703-2.jpg)
+![原文图片 3](assets/aarrr/image-003.jpg)
 
-![原文图片 4](https://image.uisdc.com/wp-content/uploads/2023/07/uisdc-je-20230703-3.jpg)
+![原文图片 4](assets/aarrr/image-004.jpg)
 
-![原文图片 5](https://image.uisdc.com/wp-content/uploads/2023/07/uisdc-je-20230703-4.jpg)
+![原文图片 5](assets/aarrr/image-005.jpg)
 
-![原文图片 6](https://image.uisdc.com/wp-content/uploads/2023/07/uisdc-je-20230703-5.jpg)
+![原文图片 6](assets/aarrr/image-006.jpg)
 
-![原文图片 7](https://image.uisdc.com/wp-content/uploads/2023/07/uisdc-je-20230703-6.jpg)
+![原文图片 7](assets/aarrr/image-007.jpg)
 
-![原文图片 8](https://image.uisdc.com/wp-content/uploads/2023/07/uisdc-je-20230703-7.jpg)
+![原文图片 8](assets/aarrr/image-008.jpg)
 
-![原文图片 9](https://image.uisdc.com/wp-content/uploads/2023/07/uisdc-je-20230703-8.jpg)
+![原文图片 9](assets/aarrr/image-009.jpg)
 
-![原文图片 10](https://image.uisdc.com/wp-content/uploads/2023/07/uisdc-je-20230703-9.jpg)
+![原文图片 10](assets/aarrr/image-010.jpg)
 
-![原文图片 11](https://image.uisdc.com/wp-content/uploads/2023/07/uisdc-je-20230703-10.jpg)
+![原文图片 11](assets/aarrr/image-011.jpg)
 
-![原文图片 12](https://image.uisdc.com/wp-content/uploads/2023/07/uisdc-je-20230703-11.jpg)
+![原文图片 12](assets/aarrr/image-012.jpg)
 
-![原文图片 13](https://image.uisdc.com/wp-content/uploads/2023/07/uisdc-je-20230703-12.jpg)
+![原文图片 13](assets/aarrr/image-013.jpg)
 
-![原文图片 14](https://image.uisdc.com/wp-content/uploads/2023/07/uisdc-je-20230703-13.jpg)
+![原文图片 14](assets/aarrr/image-014.jpg)
 
-![原文图片 15](https://image.uisdc.com/wp-content/uploads/2023/07/uisdc-je-20230703-14.jpg)
+![原文图片 15](assets/aarrr/image-015.jpg)
 
-![原文图片 16](https://image.uisdc.com/wp-content/uploads/2023/07/uisdc-je-20230703-15.jpg)
+![原文图片 16](assets/aarrr/image-016.jpg)
 
-![原文图片 17](https://image.uisdc.com/wp-content/uploads/2023/07/uisdc-je-20230703-16.jpg)
+![原文图片 17](assets/aarrr/image-017.jpg)
 
-![原文图片 18](https://image.uisdc.com/wp-content/uploads/2023/07/uisdc-je-20230703-17.jpg)
+![原文图片 18](assets/aarrr/image-018.jpg)
 
-![原文图片 19](https://image.uisdc.com/wp-content/uploads/2023/07/uisdc-je-20230703-18.jpg)
+![原文图片 19](assets/aarrr/image-019.jpg)
 
-![原文图片 20](https://image.uisdc.com/wp-content/uploads/2023/07/uisdc-je-20230703-19.jpg)
+![原文图片 20](assets/aarrr/image-020.jpg)
 
-![原文图片 21](https://image.uisdc.com/wp-content/uploads/2023/07/uisdc-je-20230703-20.jpg)
+![原文图片 21](assets/aarrr/image-021.jpg)
 
-![原文图片 22](https://image.uisdc.com/wp-content/uploads/2023/07/uisdc-je-20230703-21.jpg)
+![原文图片 22](assets/aarrr/image-022.jpg)
 
-![原文图片 23](https://image.uisdc.com/wp-content/uploads/2023/07/uisdc-je-20230703-22.jpg)
+![原文图片 23](assets/aarrr/image-023.jpg)
 
-![原文图片 24](https://image.uisdc.com/wp-content/uploads/2023/07/uisdc-je-20230703-23.jpg)
+![原文图片 24](assets/aarrr/image-024.jpg)
 
-![原文图片 25](https://image.uisdc.com/wp-content/uploads/2019/10/uisdc-cx-20191021-1.jpeg)
+![原文图片 25](assets/aarrr/image-025.jpg)
 
-![原文图片 26](https://image.uisdc.com/wp-content/uploads/2026/04/20260410-uisdcbanner-aikt.webp)
+![原文图片 26](assets/aarrr/image-026.webp)

@@ -25,68 +25,68 @@ AI 智能体交互高频问题总结，适合沉淀对话、确认、容错和�
 
 ## 原文图片
 
-![原文图片 1](https://image.uisdc.com/wp-content/uploads/2025/10/ysbanner-20251001-12-1.webp)
+![原文图片 1](assets/ai-interaction-design/image-001.webp)
 
-![原文图片 2](https://image.uisdc.com/wp-content/uploads/2025/10/uisdc-gd-20251004-1.webp)
+![原文图片 2](assets/ai-interaction-design/image-002.webp)
 
-![原文图片 3](https://image.uisdc.com/wp-content/uploads/2025/10/uisdc-gd-20251004-2.webp)
+![原文图片 3](assets/ai-interaction-design/image-003.webp)
 
-![原文图片 4](https://image.uisdc.com/wp-content/uploads/2025/10/uisdc-gd-20251004-3.webp)
+![原文图片 4](assets/ai-interaction-design/image-004.webp)
 
-![原文图片 5](https://image.uisdc.com/wp-content/uploads/2025/10/uisdc-gd-20251004-4.webp)
+![原文图片 5](assets/ai-interaction-design/image-005.webp)
 
-![原文图片 6](https://image.uisdc.com/wp-content/uploads/2025/10/uisdc-gd-20251004-5.webp)
+![原文图片 6](assets/ai-interaction-design/image-006.webp)
 
-![原文图片 7](https://image.uisdc.com/wp-content/uploads/2025/10/uisdc-gd-20251004-6.webp)
+![原文图片 7](assets/ai-interaction-design/image-007.webp)
 
-![原文图片 8](https://image.uisdc.com/wp-content/uploads/2025/10/uisdc-gd-20251004-7.webp)
+![原文图片 8](assets/ai-interaction-design/image-008.webp)
 
-![原文图片 9](https://image.uisdc.com/wp-content/uploads/2025/10/uisdc-gd-20251004-8.webp)
+![原文图片 9](assets/ai-interaction-design/image-009.webp)
 
-![原文图片 10](https://image.uisdc.com/wp-content/uploads/2025/10/uisdc-gd-20251004-9.webp)
+![原文图片 10](assets/ai-interaction-design/image-010.webp)
 
-![原文图片 11](https://image.uisdc.com/wp-content/uploads/2025/10/uisdc-gd-20251004-10.webp)
+![原文图片 11](assets/ai-interaction-design/image-011.webp)
 
-![原文图片 12](https://image.uisdc.com/wp-content/uploads/2025/10/uisdc-gd-20251004-11.webp)
+![原文图片 12](assets/ai-interaction-design/image-012.webp)
 
-![原文图片 13](https://image.uisdc.com/wp-content/uploads/2025/10/uisdc-gd-20251004-12.webp)
+![原文图片 13](assets/ai-interaction-design/image-013.webp)
 
-![原文图片 14](https://image.uisdc.com/wp-content/uploads/2025/10/uisdc-gd-20251004-13.webp)
+![原文图片 14](assets/ai-interaction-design/image-014.webp)
 
-![原文图片 15](https://image.uisdc.com/wp-content/uploads/2025/10/uisdc-gd-20251004-14.webp)
+![原文图片 15](assets/ai-interaction-design/image-015.webp)
 
-![原文图片 16](https://image.uisdc.com/wp-content/uploads/2025/10/uisdc-gd-20251004-15.webp)
+![原文图片 16](assets/ai-interaction-design/image-016.webp)
 
-![原文图片 17](https://image.uisdc.com/wp-content/uploads/2025/10/uisdc-gd-20251004-16.webp)
+![原文图片 17](assets/ai-interaction-design/image-017.webp)
 
-![原文图片 18](https://image.uisdc.com/wp-content/uploads/2025/10/uisdc-gd-20251004-17.webp)
+![原文图片 18](assets/ai-interaction-design/image-018.webp)
 
-![原文图片 19](https://image.uisdc.com/wp-content/uploads/2025/10/uisdc-gd-20251004-28.webp)
+![原文图片 19](assets/ai-interaction-design/image-019.webp)
 
-![原文图片 20](https://image.uisdc.com/wp-content/uploads/2025/10/uisdc-gd-20251004-18.webp)
+![原文图片 20](assets/ai-interaction-design/image-020.webp)
 
-![原文图片 21](https://image.uisdc.com/wp-content/uploads/2025/10/uisdc-gd-20251004-24.webp)
+![原文图片 21](assets/ai-interaction-design/image-021.webp)
 
-![原文图片 22](https://image.uisdc.com/wp-content/uploads/2025/10/uisdc-gd-20251004-26.webp)
+![原文图片 22](assets/ai-interaction-design/image-022.webp)
 
-![原文图片 23](https://image.uisdc.com/wp-content/uploads/2025/10/uisdc-gd-20251004-27.webp)
+![原文图片 23](assets/ai-interaction-design/image-023.webp)
 
-![原文图片 24](https://image.uisdc.com/wp-content/uploads/2025/10/uisdc-gd-20251004-19.webp)
+![原文图片 24](assets/ai-interaction-design/image-024.webp)
 
-![原文图片 25](https://image.uisdc.com/wp-content/uploads/2025/10/uisdc-gd-20251004-30.webp)
+![原文图片 25](assets/ai-interaction-design/image-025.webp)
 
-![原文图片 26](https://image.uisdc.com/wp-content/uploads/2025/10/uisdc-gd-20251004-20.webp)
+![原文图片 26](assets/ai-interaction-design/image-026.webp)
 
-![原文图片 27](https://image.uisdc.com/wp-content/uploads/2025/10/uisdc-gd-20251004-21.webp)
+![原文图片 27](assets/ai-interaction-design/image-027.webp)
 
-![原文图片 28](https://image.uisdc.com/wp-content/uploads/2025/10/uisdc-gd-20251004-31.webp)
+![原文图片 28](assets/ai-interaction-design/image-028.webp)
 
-![原文图片 29](https://image.uisdc.com/wp-content/uploads/2025/10/uisdc-gd-20251004-22.webp)
+![原文图片 29](assets/ai-interaction-design/image-029.webp)
 
-![原文图片 30](https://image.uisdc.com/wp-content/uploads/2025/10/uisdc-gd-20251004-29.webp)
+![原文图片 30](assets/ai-interaction-design/image-030.webp)
 
-![原文图片 31](https://image.uisdc.com/wp-content/uploads/2025/10/uisdc-gd-20251004-25.webp)
+![原文图片 31](assets/ai-interaction-design/image-031.webp)
 
-![原文图片 32](https://image.uisdc.com/wp-content/uploads/2025/10/uisdc-gd-20251004-23.webp)
+![原文图片 32](assets/ai-interaction-design/image-032.webp)
 
-![原文图片 33](https://image.uisdc.com/wp-content/uploads/2026/04/20260410-uisdcbanner-aikt.webp)
+![原文图片 33](assets/ai-interaction-design/image-033.webp)

@@ -23,30 +23,30 @@
 
 ## 原文图片
 
-![原文图片 1](https://image.uisdc.com/wp-content/uploads/2024/07/ysbanner-202400726-4-1-1.jpg)
+![原文图片 1](assets/taobao/image-001.jpg)
 
-![原文图片 2](https://image.uisdc.com/wp-content/uploads/2024/07/uisdc-jd-20240726-11.jpg)
+![原文图片 2](assets/taobao/image-002.jpg)
 
-![原文图片 3](https://image.uisdc.com/wp-content/uploads/2024/07/uisdc-jd-20240726-10.jpg)
+![原文图片 3](assets/taobao/image-003.jpg)
 
-![原文图片 4](https://image.uisdc.com/wp-content/uploads/2024/07/uisdc-jd-20240726-9.jpg)
+![原文图片 4](assets/taobao/image-004.jpg)
 
-![原文图片 5](https://image.uisdc.com/wp-content/uploads/2024/07/uisdc-jd-20240726-8.jpg)
+![原文图片 5](assets/taobao/image-005.jpg)
 
-![原文图片 6](https://image.uisdc.com/wp-content/uploads/2024/07/uisdc-jd-20240726-7.jpg)
+![原文图片 6](assets/taobao/image-006.jpg)
 
-![原文图片 7](https://image.uisdc.com/wp-content/uploads/2024/07/uisdc-jd-20240726-6.jpg)
+![原文图片 7](assets/taobao/image-007.jpg)
 
-![原文图片 8](https://image.uisdc.com/wp-content/uploads/2024/07/uisdc-jd-20240726-5.jpg)
+![原文图片 8](assets/taobao/image-008.jpg)
 
-![原文图片 9](https://image.uisdc.com/wp-content/uploads/2024/07/uisdc-jd-20240726-4.jpg)
+![原文图片 9](assets/taobao/image-009.jpg)
 
-![原文图片 10](https://image.uisdc.com/wp-content/uploads/2024/07/uisdc-jd-20240726-3.jpg)
+![原文图片 10](assets/taobao/image-010.jpg)
 
-![原文图片 11](https://image.uisdc.com/wp-content/uploads/2024/07/uisdc-jd-20240726-2.jpg)
+![原文图片 11](assets/taobao/image-011.jpg)
 
-![原文图片 12](https://image.uisdc.com/wp-content/uploads/2024/07/uisdc-jd-20240726-1.jpg)
+![原文图片 12](assets/taobao/image-012.jpg)
 
-![原文图片 13](https://image.uisdc.com/wp-content/uploads/2019/03/taobaoqr.jpg)
+![原文图片 13](assets/taobao/image-013.jpg)
 
-![原文图片 14](https://image.uisdc.com/wp-content/uploads/2026/04/20260410-uisdcbanner-aikt.webp)
+![原文图片 14](assets/taobao/image-014.webp)

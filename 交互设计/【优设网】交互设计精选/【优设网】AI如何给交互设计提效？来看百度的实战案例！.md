@@ -25,20 +25,20 @@
 
 ## 原文图片
 
-![原文图片 1](https://image.uisdc.com/wp-content/uploads/2026/01/ysbanner-20260127-1-1.webp)
+![原文图片 1](assets/ai-driven-merchant-efficiency/image-001.webp)
 
-![原文图片 2](https://image.uisdc.com/wp-content/uploads/2026/01/AI赋能百度优选商家经营提效的交互设计实践-1.webp)
+![原文图片 2](assets/ai-driven-merchant-efficiency/image-002.webp)
 
-![原文图片 3](https://image.uisdc.com/wp-content/uploads/2026/01/AI赋能百度优选商家经营提效的交互设计实践-2.webp)
+![原文图片 3](assets/ai-driven-merchant-efficiency/image-003.webp)
 
-![原文图片 4](https://image.uisdc.com/wp-content/uploads/2026/01/AI赋能百度优选商家经营提效的交互设计实践-3.webp)
+![原文图片 4](assets/ai-driven-merchant-efficiency/image-004.webp)
 
-![原文图片 5](https://image.uisdc.com/wp-content/uploads/2026/01/AI赋能百度优选商家经营提效的交互设计实践-4.webp)
+![原文图片 5](assets/ai-driven-merchant-efficiency/image-005.webp)
 
-![原文图片 6](https://image.uisdc.com/wp-content/uploads/2026/01/AI赋能百度优选商家经营提效的交互设计实践-5.webp)
+![原文图片 6](assets/ai-driven-merchant-efficiency/image-006.webp)
 
-![原文图片 7](https://image.uisdc.com/wp-content/uploads/2026/01/AI赋能百度优选商家经营提效的交互设计实践-6.webp)
+![原文图片 7](assets/ai-driven-merchant-efficiency/image-007.webp)
 
-![原文图片 8](https://image.uisdc.com/wp-content/uploads/2020/10/qrbdmeux.jpg)
+![原文图片 8](assets/ai-driven-merchant-efficiency/image-008.jpg)
 
-![原文图片 9](https://image.uisdc.com/wp-content/uploads/2026/04/20260410-uisdcbanner-aikt.webp)
+![原文图片 9](assets/ai-driven-merchant-efficiency/image-009.webp)

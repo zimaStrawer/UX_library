@@ -4,7 +4,7 @@
 
 以下文章来源于JDTDA，作者Digital Efficacy
 
-![image](https://cdn-mineru.openxlab.org.cn/result/2026-06-03/ed671d54-f4e5-42bd-aff9-ba803f7ab7ae/ff54721eb2f921b13c7136c19a4af6b45fbb40a390a7cd53e4283b6ef3f260d1.jpg)
+![image](assets/b-5971b2/image-001.jpg)
 
 
 ## JDTDA
@@ -35,17 +35,17 @@ B端体验深耕 | DEDC 出品
 
 在业务改版时，我们的体验设计师了解到旧版页面信息录入成本过高的问题，于是提出了数字键盘录入数据的方案「用户在原本手动录入数据的基础上，增加选择录入数据的能力，以此降低用户录入数据的操作负担」。
 
-![image](https://cdn-mineru.openxlab.org.cn/result/2026-06-03/ed671d54-f4e5-42bd-aff9-ba803f7ab7ae/508ac266cf3568524a73186e189c851a677f7744cbf025eb4c1b88ff0a6fb0d9.jpg)
+![image](assets/b-5971b2/image-002.jpg)
 
 
 作为数据录入的组件，数字键盘适用于简短且整数的特殊场景下，如：数字录入、百分比录入。备选的数据信息以宫格布局呈现，用户可以快速点击数字键盘中需要填入的数字。相比下拉菜单和上下箭头数字输入框相比，更直观，易用性更强。
 
 对于擅长键盘盲打的研发工程师类角色来说，仍然可以通过物理键盘录入数据；而对于不太熟练操作键盘的大多数用户来说，可以通过直观的数字键盘点选录入数据。数字键盘组件甚至还能帮助用户自动计算已填数据，实现一键补全。
 
-![image](https://cdn-mineru.openxlab.org.cn/result/2026-06-03/ed671d54-f4e5-42bd-aff9-ba803f7ab7ae/e14e2051cb51aa951495eb30291edaec9a3798d61a0ff07abf2651ebf6b77ecf.jpg)
+![image](assets/b-5971b2/image-003.jpg)
 
 
-![image](https://cdn-mineru.openxlab.org.cn/result/2026-06-03/ed671d54-f4e5-42bd-aff9-ba803f7ab7ae/1ef94dc94cf2d37e44760332c947fea9b6b5f88f39d32a682496b22a90dd6866.jpg)
+![image](assets/b-5971b2/image-004.jpg)
 
 
 
@@ -60,14 +60,14 @@ B端体验深耕 | DEDC 出品
 
 很多大型B端产品的详情页在成熟期后都会面临信息内容多、分类复杂的问题，这导致用户需要滚动多屏或者切换tab页签去查找信息，即便产品设计团队已经花了不少心血将信息布局做了优化和重组，但也难以避免有些用户查找关键信息费时费力，不清楚应该在页面哪一块进行哪些操作。虽然IM、邮件等工具可以一定程度上解决信息的触达，但用户从其他平台点击网址链接跳转到产品详情页后依然会面临缺少明确的指引问题。
 
-![image](https://cdn-mineru.openxlab.org.cn/result/2026-06-03/ed671d54-f4e5-42bd-aff9-ba803f7ab7ae/04b449e4f652b2c74ab171ed1965ffaeb444df58035a3a2015a7fb3812b19158.jpg)
+![image](assets/b-5971b2/image-005.jpg)
 
 
 
 Before
 
 
-![image](https://cdn-mineru.openxlab.org.cn/result/2026-06-03/ed671d54-f4e5-42bd-aff9-ba803f7ab7ae/979244bce2b16ab36a9c4cf62d82ed12816c0e3927e04bb0bbd3af6093f0466e.jpg)
+![image](assets/b-5971b2/image-006.jpg)
 
 
 
@@ -76,20 +76,20 @@ After
 
 针对以上用户使用中的痛点，我们在页面中关键区域设置了一系列操作指引性的任务提示卡片，并在卡片上设置明确的引导文案及操作按钮，以减少用户因不熟悉产品功能或者页面信息过多而找不到操作入口的问题；引导用户点击“去完成”、“去操作”等操作按钮直接跳转至应该操作内容模块或相应页面去完成应该完成的操作，这样就使得不同用户在不同环节完成相应的任务，保证流程顺畅的走下去。
 
-![image](https://cdn-mineru.openxlab.org.cn/result/2026-06-03/ed671d54-f4e5-42bd-aff9-ba803f7ab7ae/c5f7ed54a9c75c3b9fdc9c2256ab7ff3bff5fec7ad183f93a6131ec7f5767b40.jpg)
+![image](assets/b-5971b2/image-007.jpg)
 
 
-![image](https://cdn-mineru.openxlab.org.cn/result/2026-06-03/ed671d54-f4e5-42bd-aff9-ba803f7ab7ae/79248064f8c4d44a33e9d6afe41a603ba5fa519c441cfab53b2db575491e4c7a.jpg)
+![image](assets/b-5971b2/image-008.jpg)
 
 
 
 我们将传统的卡片视图优化为列表视图，并支持多个操作项，实现了用户所见即所得的直观体验。
 
 
-![image](https://cdn-mineru.openxlab.org.cn/result/2026-06-03/ed671d54-f4e5-42bd-aff9-ba803f7ab7ae/41f5790fb3558b19c50b46475a2935c6282a0bac6995b2011d46afaf135c8c19.jpg)
+![image](assets/b-5971b2/image-009.jpg)
 
 
-![image](https://cdn-mineru.openxlab.org.cn/result/2026-06-03/ed671d54-f4e5-42bd-aff9-ba803f7ab7ae/8abf18f54cd9539c85959b19dc269f5a7b2625aaca417592a09eb9b929ca15b8.jpg)
+![image](assets/b-5971b2/image-010.jpg)
 
 
 任务提示卡作为一类高效的即时指引工具，已在多个用户使用场景下发挥了关键作用，不仅帮助用户提升了完成任务的效率，也在一定程度上缓解了用户的焦虑。该组件的设计初衷是为了解决当用户面对复杂或不熟悉的操作时，为了用户提供即时的指引。在不同系统平台的适配过程中，我们特别注重交互模式的灵活性和适应性，以适应不同的适用场景。例如，我们将传统的卡片视图优化为列表视图，并支持多个操作项，实现了用户所见即所得的直观体验。
@@ -102,7 +102,7 @@ After
 
 在诸多项目实践中，我们发现浮层卡片是一个非常灵活的组件，它可以在用户需要时通过鼠标悬停即可展开，用户可以不用跳转或打开新页面就可以在浮层卡片中完成一些关键信息的查看或者编辑。这种交互模式不仅可以减少用户的操作步骤，还减少了产品链路和开发成本，在提升体验的同时也更好的效能业务。
 
-![image](https://cdn-mineru.openxlab.org.cn/result/2026-06-03/ed671d54-f4e5-42bd-aff9-ba803f7ab7ae/58997d6ceb1fb0b93ad9386712a4fa2da861648f9d62a27a39391b82da023441.jpg)
+![image](assets/b-5971b2/image-011.jpg)
 
 
 在我们的平台上，一些用户虽然可以将自己经常使用的应用常驻到菜单栏上，但是受限于屏幕尺寸左侧的菜单栏不能显示太多常驻应用。
@@ -115,7 +115,7 @@ After
 
 ■ 鼠标悬浮时，它就像一个传送门一样将用户需要切换的应用呈现在浮层卡片上，用户点击所需的应用即可完成应用的切换。
 
-![image](https://cdn-mineru.openxlab.org.cn/result/2026-06-03/ed671d54-f4e5-42bd-aff9-ba803f7ab7ae/8af0ac8e5e75b3726a91ff0094f9fba46939d26bf55ea7a32bef54acd21e4486.jpg)
+![image](assets/b-5971b2/image-012.jpg)
 
 
 【浮层卡片】作为一种灵活、高效的交互模式，在业务侧得到能够有效降低用户重复操作的验证后，我们把它拓展到了很多的相似场景里。
@@ -136,14 +136,14 @@ After
 
 我们最初使用了数据可视化的看板来呈现各阶段下不同状态的概览信息，但这只解决了数据概览的问题，用户还是需要点击“详情”才能跳转至相应的页面。
 
-![image](https://cdn-mineru.openxlab.org.cn/result/2026-06-03/ed671d54-f4e5-42bd-aff9-ba803f7ab7ae/e32c135beca5d3093a9fdfb9759589099e53648ae8fe4feab041db7d1c2e5412.jpg)
+![image](assets/b-5971b2/image-013.jpg)
 
 
 
 Before
 
 
-![image](https://cdn-mineru.openxlab.org.cn/result/2026-06-03/ed671d54-f4e5-42bd-aff9-ba803f7ab7ae/237d790dbe2ab2173c5cdd4181620d3a9b6b86f6b62de368125e724772f89002.jpg)
+![image](assets/b-5971b2/image-014.jpg)
 
 
 
@@ -152,21 +152,21 @@ After
 
 ■ 体验设计师在一些项目中尝试了将数据可视化看板与Tab标签页的融合，这就形成了具有Tab切换功能的数据看板，用户在查看概览数据的同时也可以通过点击切换查看各阶段/状态下的详细数据。
 
-![image](https://cdn-mineru.openxlab.org.cn/result/2026-06-03/ed671d54-f4e5-42bd-aff9-ba803f7ab7ae/7f97b4344a46195dd7552aa23cb989b9d8b1e77a3786e5c7baf43ff418e3fd03.jpg)
+![image](assets/b-5971b2/image-015.jpg)
 
 
-![image](https://cdn-mineru.openxlab.org.cn/result/2026-06-03/ed671d54-f4e5-42bd-aff9-ba803f7ab7ae/ae454114e48a427ca9c192b888e5a2eafa500f5fceabb736e5a6d34108ccda31.jpg)
+![image](assets/b-5971b2/image-016.jpg)
 
 
 ■ 在经过用户反馈和不同业务场景下的适配后，我们又针对小屏增加了折叠功能、折叠后状态数据隐藏、宽度不够时状态数据隐藏等优化。
 
-![image](https://cdn-mineru.openxlab.org.cn/result/2026-06-03/ed671d54-f4e5-42bd-aff9-ba803f7ab7ae/9681409d0bc667e3f26600d7b15cfe3d2f50752d09631f4fea805ea4d9911bfd.jpg)
+![image](assets/b-5971b2/image-017.jpg)
 
 
-![image](https://cdn-mineru.openxlab.org.cn/result/2026-06-03/ed671d54-f4e5-42bd-aff9-ba803f7ab7ae/8d334b26d56684f54f1cbca7665e9c6aea7c650b5827c788f5d232e0219ca103.jpg)
+![image](assets/b-5971b2/image-018.jpg)
 
 
-![image](https://cdn-mineru.openxlab.org.cn/result/2026-06-03/ed671d54-f4e5-42bd-aff9-ba803f7ab7ae/8e6d541e2a54c8191aabf5340b31a5cb2c61226d7955d437f39f42cdce3d5cc8.jpg)
+![image](assets/b-5971b2/image-019.jpg)
 
 
 
@@ -183,14 +183,14 @@ After
 
 在我们的版本管理模块中，用户在需求规划阶段需要将交付的需求和开发分支进行关联，一个需求不仅可以与多个开发分支进行关联、多个需求也可以与多个应用进行关联。这里的不仅要解决复杂的关联关系，还要解决需求与开发分支可增删的操作难点。
 
-![image](https://cdn-mineru.openxlab.org.cn/result/2026-06-03/ed671d54-f4e5-42bd-aff9-ba803f7ab7ae/3645cbca3aba28bece412562c9a958ef56636de494d5f7a7136b09eff68d4ea1.jpg)
+![image](assets/b-5971b2/image-020.jpg)
 
 
 
 Before
 
 
-![image](https://cdn-mineru.openxlab.org.cn/result/2026-06-03/ed671d54-f4e5-42bd-aff9-ba803f7ab7ae/f76bd5b803bd3302d4a15d0ad3a178e3b7c1af2bc51a1d119ec3cfab442e9560.jpg)
+![image](assets/b-5971b2/image-021.jpg)
 
 
 
@@ -201,10 +201,10 @@ After
 
 树形连接线作为一种解决数据可视化的手段有效解决了业务中的难点，同样设计团队也将其拓展到了更多适用场景，帮助用户提升信息查看和操作效率。
 
-![image](https://cdn-mineru.openxlab.org.cn/result/2026-06-03/ed671d54-f4e5-42bd-aff9-ba803f7ab7ae/a82381dde7af38a5f37e5ee771178a8daf8dfaf2c9d24d22e30b400eb2da9ebe.jpg)
+![image](assets/b-5971b2/image-022.jpg)
 
 
-![image](https://cdn-mineru.openxlab.org.cn/result/2026-06-03/ed671d54-f4e5-42bd-aff9-ba803f7ab7ae/f54c358a9e663af2a784ccc48903d4d92b2a9561fd2e93ae063d12b6f2459803.jpg)
+![image](assets/b-5971b2/image-023.jpg)
 
 
 

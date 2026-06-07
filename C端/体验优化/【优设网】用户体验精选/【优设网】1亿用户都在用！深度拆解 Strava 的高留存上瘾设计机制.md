@@ -23,48 +23,48 @@
 
 ## 原文图片
 
-![原文图片 1](https://image.uisdc.com/wp-content/uploads/2025/11/ysbanner-20251121-3-1.webp)
+![原文图片 1](assets/strava-app-design/image-001.webp)
 
-![原文图片 2](https://image.uisdc.com/wp-content/uploads/2025/11/at1-uisdc.webp)
+![原文图片 2](assets/strava-app-design/image-002.webp)
 
-![原文图片 3](https://image.uisdc.com/wp-content/uploads/2025/11/at2-uisdc.webp)
+![原文图片 3](assets/strava-app-design/image-003.webp)
 
-![原文图片 4](https://image.uisdc.com/wp-content/uploads/2025/11/at3-uisdc.webp)
+![原文图片 4](assets/strava-app-design/image-004.webp)
 
-![原文图片 5](https://image.uisdc.com/wp-content/uploads/2025/11/at4-uisdc.webp)
+![原文图片 5](assets/strava-app-design/image-005.webp)
 
-![原文图片 6](https://image.uisdc.com/wp-content/uploads/2025/11/at5-uisdc.webp)
+![原文图片 6](assets/strava-app-design/image-006.webp)
 
-![原文图片 7](https://image.uisdc.com/wp-content/uploads/2025/11/at6-uisdc.webp)
+![原文图片 7](assets/strava-app-design/image-007.webp)
 
-![原文图片 8](https://image.uisdc.com/wp-content/uploads/2025/11/at7-uisdc.webp)
+![原文图片 8](assets/strava-app-design/image-008.webp)
 
-![原文图片 9](https://image.uisdc.com/wp-content/uploads/2025/11/at8-uisdc.webp)
+![原文图片 9](assets/strava-app-design/image-009.webp)
 
-![原文图片 10](https://image.uisdc.com/wp-content/uploads/2025/11/at9-uisdc.webp)
+![原文图片 10](assets/strava-app-design/image-010.webp)
 
-![原文图片 11](https://image.uisdc.com/wp-content/uploads/2025/11/at10-uisdc.webp)
+![原文图片 11](assets/strava-app-design/image-011.webp)
 
-![原文图片 12](https://image.uisdc.com/wp-content/uploads/2025/11/at11-uisdc.webp)
+![原文图片 12](assets/strava-app-design/image-012.webp)
 
-![原文图片 13](https://image.uisdc.com/wp-content/uploads/2025/11/at12-uisdc.webp)
+![原文图片 13](assets/strava-app-design/image-013.webp)
 
-![原文图片 14](https://image.uisdc.com/wp-content/uploads/2025/11/at13-uisdc.webp)
+![原文图片 14](assets/strava-app-design/image-014.webp)
 
-![原文图片 15](https://image.uisdc.com/wp-content/uploads/2025/11/at14-uisdc.webp)
+![原文图片 15](assets/strava-app-design/image-015.webp)
 
-![原文图片 16](https://image.uisdc.com/wp-content/uploads/2025/11/at15-uisdc.webp)
+![原文图片 16](assets/strava-app-design/image-016.webp)
 
-![原文图片 17](https://image.uisdc.com/wp-content/uploads/2025/11/at16-uisdc.webp)
+![原文图片 17](assets/strava-app-design/image-017.webp)
 
-![原文图片 18](https://image.uisdc.com/wp-content/uploads/2025/11/at17-uisdc.webp)
+![原文图片 18](assets/strava-app-design/image-018.webp)
 
-![原文图片 19](https://image.uisdc.com/wp-content/uploads/2025/11/at18-uisdc.webp)
+![原文图片 19](assets/strava-app-design/image-019.webp)
 
-![原文图片 20](https://image.uisdc.com/wp-content/uploads/2025/11/at19-uisdc.webp)
+![原文图片 20](assets/strava-app-design/image-020.webp)
 
-![原文图片 21](https://image.uisdc.com/wp-content/uploads/2025/11/at20-uisdc.webp)
+![原文图片 21](assets/strava-app-design/image-021.webp)
 
-![原文图片 22](https://image.uisdc.com/wp-content/uploads/fav-pro/pro-icon-3.svg)
+![原文图片 22](assets/strava-app-design/image-022.jpg)
 
-![原文图片 23](https://image.uisdc.com/wp-content/uploads/2026/04/20260410-uisdcbanner-aikt.webp)
+![原文图片 23](assets/strava-app-design/image-023.webp)

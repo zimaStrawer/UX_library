@@ -25,58 +25,58 @@
 
 ## 原文图片
 
-![原文图片 1](https://image.uisdc.com/wp-content/uploads/2024/04/ysbanner-202300413-2-1.jpg)
+![原文图片 1](assets/ai-q-a-assistant/image-001.jpg)
 
-![原文图片 2](https://image.uisdc.com/wp-content/uploads/2024/04/uisdc-wl-20240413-24.jpg)
+![原文图片 2](assets/ai-q-a-assistant/image-002.jpg)
 
-![原文图片 3](https://image.uisdc.com/wp-content/uploads/2024/04/uisdc-wl-20240413-23.jpg)
+![原文图片 3](assets/ai-q-a-assistant/image-003.jpg)
 
-![原文图片 4](https://image.uisdc.com/wp-content/uploads/2024/04/uisdc-wl-20240413-22.jpg)
+![原文图片 4](assets/ai-q-a-assistant/image-004.jpg)
 
-![原文图片 5](https://image.uisdc.com/wp-content/uploads/2024/04/uisdc-wl-20240413-21.jpg)
+![原文图片 5](assets/ai-q-a-assistant/image-005.jpg)
 
-![原文图片 6](https://image.uisdc.com/wp-content/uploads/2024/04/uisdc-wl-20240413-20.jpg)
+![原文图片 6](assets/ai-q-a-assistant/image-006.jpg)
 
-![原文图片 7](https://image.uisdc.com/wp-content/uploads/2024/04/uisdc-wl-20240413-19.gif)
+![原文图片 7](assets/ai-q-a-assistant/image-007.gif)
 
-![原文图片 8](https://image.uisdc.com/wp-content/uploads/2024/04/uisdc-wl-20240413-18.jpg)
+![原文图片 8](assets/ai-q-a-assistant/image-008.jpg)
 
-![原文图片 9](https://image.uisdc.com/wp-content/uploads/2024/04/uisdc-wl-20240413-17.jpg)
+![原文图片 9](assets/ai-q-a-assistant/image-009.jpg)
 
-![原文图片 10](https://image.uisdc.com/wp-content/uploads/2024/04/uisdc-wl-20240413-16.jpg)
+![原文图片 10](assets/ai-q-a-assistant/image-010.jpg)
 
-![原文图片 11](https://image.uisdc.com/wp-content/uploads/2024/04/uisdc-wl-20240413-15.jpg)
+![原文图片 11](assets/ai-q-a-assistant/image-011.jpg)
 
-![原文图片 12](https://image.uisdc.com/wp-content/uploads/2024/04/uisdc-wl-20240413-14.jpg)
+![原文图片 12](assets/ai-q-a-assistant/image-012.jpg)
 
-![原文图片 13](https://image.uisdc.com/wp-content/uploads/2024/04/uisdc-wl-20240413-13.jpg)
+![原文图片 13](assets/ai-q-a-assistant/image-013.jpg)
 
-![原文图片 14](https://image.uisdc.com/wp-content/uploads/2024/04/uisdc-wl-20240413-12.jpg)
+![原文图片 14](assets/ai-q-a-assistant/image-014.jpg)
 
-![原文图片 15](https://image.uisdc.com/wp-content/uploads/2024/04/uisdc-wl-20240413-11.jpg)
+![原文图片 15](assets/ai-q-a-assistant/image-015.jpg)
 
-![原文图片 16](https://image.uisdc.com/wp-content/uploads/2024/04/uisdc-wl-20240413-10.jpg)
+![原文图片 16](assets/ai-q-a-assistant/image-016.jpg)
 
-![原文图片 17](https://image.uisdc.com/wp-content/uploads/2024/04/uisdc-wl-20240413-9.jpg)
+![原文图片 17](assets/ai-q-a-assistant/image-017.jpg)
 
-![原文图片 18](https://image.uisdc.com/wp-content/uploads/2024/04/uisdc-wl-20240413-8.jpg)
+![原文图片 18](assets/ai-q-a-assistant/image-018.jpg)
 
-![原文图片 19](https://image.uisdc.com/wp-content/uploads/2024/04/uisdc-wl-20240413-7.jpg)
+![原文图片 19](assets/ai-q-a-assistant/image-019.jpg)
 
-![原文图片 20](https://image.uisdc.com/wp-content/uploads/2024/04/uisdc-wl-20240413-6.jpg)
+![原文图片 20](assets/ai-q-a-assistant/image-020.jpg)
 
-![原文图片 21](https://image.uisdc.com/wp-content/uploads/2024/04/uisdc-wl-20240413-5.jpg)
+![原文图片 21](assets/ai-q-a-assistant/image-021.jpg)
 
-![原文图片 22](https://image.uisdc.com/wp-content/uploads/2024/04/uisdc-wl-20240413-25.jpg)
+![原文图片 22](assets/ai-q-a-assistant/image-022.jpg)
 
-![原文图片 23](https://image.uisdc.com/wp-content/uploads/2024/04/uisdc-wl-20240413-4.jpg)
+![原文图片 23](assets/ai-q-a-assistant/image-023.jpg)
 
-![原文图片 24](https://image.uisdc.com/wp-content/uploads/2024/04/uisdc-wl-20240413-3.jpg)
+![原文图片 24](assets/ai-q-a-assistant/image-024.jpg)
 
-![原文图片 25](https://image.uisdc.com/wp-content/uploads/2024/04/uisdc-wl-20240413-2.jpg)
+![原文图片 25](assets/ai-q-a-assistant/image-025.jpg)
 
-![原文图片 26](https://image.uisdc.com/wp-content/uploads/2024/04/uisdc-wl-20240413-1.jpg)
+![原文图片 26](assets/ai-q-a-assistant/image-026.jpg)
 
-![原文图片 27](https://image.uisdc.com/wp-content/uploads/2019/10/uisdc-cx-20191021-1.jpeg)
+![原文图片 27](assets/ai-q-a-assistant/image-027.jpg)
 
-![原文图片 28](https://image.uisdc.com/wp-content/uploads/2026/04/20260410-uisdcbanner-aikt.webp)
+![原文图片 28](assets/ai-q-a-assistant/image-028.webp)

@@ -34,7 +34,7 @@
 
 大量文本阅读，缺少图片展示，决策成本高；列表页全侧车型图展示，车辆识别度低。
 
-![image](https://cdn-mineru.openxlab.org.cn/result/2026-06-03/4ab29d5e-d39b-4b1a-b846-ea0e69c08958/fb6388dbf298a0f08ec5f1b6b4c0b3430a4d7fdaf87f439652943d3a3b3785c1.jpg)
+![image](assets/cxd-f58c39/image-001.jpg)
 
 
 # 3. 设计目标
@@ -43,21 +43,21 @@
 
 （1）导购效率提升（2）决策牵引强化（3）看车体验升级
 
-![image](https://cdn-mineru.openxlab.org.cn/result/2026-06-03/4ab29d5e-d39b-4b1a-b846-ea0e69c08958/13c9eeb18bcb96c02a2f7134521fcbd4a417436989fceb7754a8f8988b8da1b6.jpg)
+![image](assets/cxd-f58c39/image-002.jpg)
 
 
 # 导购效率提升
 
 差异化满足需求
 
-![image](https://cdn-mineru.openxlab.org.cn/result/2026-06-03/4ab29d5e-d39b-4b1a-b846-ea0e69c08958/f122e88ba404695e48ab14e0cd9dfa8eae976eb0f7295d76d4a5464c3fcc041d.jpg)
+![image](assets/cxd-f58c39/image-003.jpg)
 
 
 # 决策牵引强化
 
 高频率透传信息
 
-![image](https://cdn-mineru.openxlab.org.cn/result/2026-06-03/4ab29d5e-d39b-4b1a-b846-ea0e69c08958/477f6c3d65ecebf265560bc5f3f22ec103286c55d384e24398c1da71eb8085c4.jpg)
+![image](assets/cxd-f58c39/image-004.jpg)
 
 
 # 看车体验升级
@@ -68,35 +68,35 @@
 
 为了评估目前导购效率，从数据维度对首页各个模块的点击率以及首页到商详的转化率进行了统计分析。通过首页点击率分布，可以看到排布在上面的banner、金刚区功能icon，瓷片区运营位点击数据都很差，首屏流量占比非常低。首页到商详的转化率低，导购效率不好。结合数据，我们从业务诉求、用户需求、人体工学、营销透传4个维度进行了信息结构的优化。
 
-![image](https://cdn-mineru.openxlab.org.cn/result/2026-06-03/4ab29d5e-d39b-4b1a-b846-ea0e69c08958/08bd92dce1cd0ba5d48eb2b4784d5c971143275326535c9820ffb46f80d9819b.jpg)
+![image](assets/cxd-f58c39/image-005.jpg)
 
 
 # 1. 强化业务感知
 
 因为车型有3种不同的租售模式（租、买、先租后买），所以在首页feed流和商详都增加了模式tab，透出所以模式价格。除了方便定位不同模式，也强化了平台一直推行的业务模式的感知：先选车，再选用车方式；同时在banner下面增加了平台定位的品宣，传达“一站式租售平台”的业务属性，让用户了解平台、信任平台。
 
-![image](https://cdn-mineru.openxlab.org.cn/result/2026-06-03/4ab29d5e-d39b-4b1a-b846-ea0e69c08958/861bf85aa060c53dcb2288d21c695546f7f821757e6a08947c00e87c35bafc24.jpg)
+![image](assets/cxd-f58c39/image-006.jpg)
 
 
 # 2. 完善导购类型
 
 在保持原有列表浏览结构（闲逛型）的前提下，分别针对不同人群增加了品牌筛选（纠结对比型）、快速定位（需求明确型）、定向导购（需求明确型）三种导购方式，以此满足不同用户在平台上的需求，帮助业务转化。
 
-![image](https://cdn-mineru.openxlab.org.cn/result/2026-06-03/4ab29d5e-d39b-4b1a-b846-ea0e69c08958/0bfd337e93c369e0aada7287375cbe1db6a60406a9a00db4af4a14cd9ac4ec64.jpg)
+![image](assets/cxd-f58c39/image-007.jpg)
 
 
 # 3. 重构视觉动线
 
 原有车型卡片的排版信息分散，浏览动线都是点状、分散的，在信息获取方面无法聚焦。优化后，一致的左图右文结构，符合用户从左到右阅读的视觉动向，同时易于滑动浏览，提高纵向对比效率；因为业务的扩张，大量高端车型入住，所以在车型图上也进行了调整，将车型视角调整为 $45^{\circ}$ 角，提高车型识别度。将原有车型卡片高度压缩，在有效信息更合理聚焦的同时，大大提高屏效。
 
-![image](https://cdn-mineru.openxlab.org.cn/result/2026-06-03/4ab29d5e-d39b-4b1a-b846-ea0e69c08958/f26c9a8b83742065239b158f4d0395b5483058d159c84565f349dafdc66f463a.jpg)
+![image](assets/cxd-f58c39/image-008.jpg)
 
 
 
 改版前浏览动线
 
 
-![image](https://cdn-mineru.openxlab.org.cn/result/2026-06-03/4ab29d5e-d39b-4b1a-b846-ea0e69c08958/d2c0d6249585b7b916901bb9b11f2eb3c119c47f014ebde053954c844473d031.jpg)
+![image](assets/cxd-f58c39/image-009.jpg)
 
 
 
@@ -109,14 +109,14 @@
 
 原有运营位在首屏列表之上，点击率很低，影响首屏列表流量转化。改版后将运营位穿插在列表中，提升了首屏屏效，而且差异化视觉表达更能吸引点击；针对界面颜色丰富饱和度高，各类标签样式不同、位置不同，分散视觉注意的问题。新设计在视觉层级上将非营销版块颜色降级，让用户在浏览feed流的过程中，视觉焦点更聚焦在左侧车型图及营销标签上。
 
-![image](https://cdn-mineru.openxlab.org.cn/result/2026-06-03/4ab29d5e-d39b-4b1a-b846-ea0e69c08958/7abce769814170acef66a1c448bb9390cfd0917c41f602d3b115176ccc3e5176.jpg)
+![image](assets/cxd-f58c39/image-010.jpg)
 
 
 # 四. 强化决策牵引，提升用户转化
 
 一切信息的准备都是为了最后的转化，而商详页作为车辆信息、方案详情、平台信息的承载页，在决策牵引转化的链路中起到关键作用，商详页的设计好坏决定了转化的好坏。重新设计从吸引决策、降低顾虑、辅助决策、挽留决策4个层次构建，层层递进，打动用户。
 
-![image](https://cdn-mineru.openxlab.org.cn/result/2026-06-03/4ab29d5e-d39b-4b1a-b846-ea0e69c08958/171043aa5655a8c639666f4a6f5c76078a24126559a25eb52e89bfbef52b5964.jpg)
+![image](assets/cxd-f58c39/image-011.jpg)
 
 
 # 吸引决策
@@ -139,28 +139,28 @@
 吸引决策
 
 
-![image](https://cdn-mineru.openxlab.org.cn/result/2026-06-03/4ab29d5e-d39b-4b1a-b846-ea0e69c08958/5e4247990e92340fa9880350038c537062960744c67c34b7734407a06e65718c.jpg)
+![image](assets/cxd-f58c39/image-012.jpg)
 
 
 
 降低顾虑
 
 
-![image](https://cdn-mineru.openxlab.org.cn/result/2026-06-03/4ab29d5e-d39b-4b1a-b846-ea0e69c08958/4ca514f8366e9253cbb225cc447158ea6ed347a07e80ca702c37f8025c757740.jpg)
+![image](assets/cxd-f58c39/image-013.jpg)
 
 
 
 辅助决策
 
 
-![image](https://cdn-mineru.openxlab.org.cn/result/2026-06-03/4ab29d5e-d39b-4b1a-b846-ea0e69c08958/0af831713e68be641f49e22e605258c0f0bc3c33b0358187af7babbb6d087aff.jpg)
+![image](assets/cxd-f58c39/image-014.jpg)
 
 
 
 决策挽留
 
 
-![image](https://cdn-mineru.openxlab.org.cn/result/2026-06-03/4ab29d5e-d39b-4b1a-b846-ea0e69c08958/34aaed6fe339441db3723087304aad9fe940c2d15c9f5fea9c4bf7dcdb9ecafa.jpg)
+![image](assets/cxd-f58c39/image-015.jpg)
 
 
 
@@ -171,21 +171,21 @@
 
 租车和买车的方案主要由期数、首付决定。期数越久、首付越高，月租金（或月供，下同）越低。在实际业务中，牌照类型和车级（车辆新旧）也会影响月租金。改版前：同样租期下，有几个车级就展示几个方案卡片；牌照跟租期一样，作为选项，直接影响每个卡片的月租金。考虑到租买结构统一，买车业务中颜色、款型、配饰等可能都会像牌照类型和车级一样影响月租金。按照原有设计样式，这些属性直接作为选项，将大大减低决策效率。所以思考了新的设计解法：
 
-![image](https://cdn-mineru.openxlab.org.cn/result/2026-06-03/4ab29d5e-d39b-4b1a-b846-ea0e69c08958/b16549c0e6ef59658005231660040002191a1f1bcda20beedec51f1854840b30.jpg)
+![image](assets/cxd-f58c39/image-016.jpg)
 
 
 # 解法一：信息拆解
 
 将车辆属性信息（颜色、新旧等）和方案信息（期数、价格等）拆解开，分别沟通，结构化信息的同时，让用户选择更清晰。颜色、新旧、车牌等车辆属性作为商品sku，提供一个默认参数，在默认参数下，月租金的变化就仅仅根据首付、期数等方案层面的参数而改变了，对比方案时自变量更少，便于决策。
 
-![image](https://cdn-mineru.openxlab.org.cn/result/2026-06-03/4ab29d5e-d39b-4b1a-b846-ea0e69c08958/bd4085291a5466c1e41f7f8aa44ff7348295cba9f3fa5ed3c820a72fd017a5a7.jpg)
+![image](assets/cxd-f58c39/image-017.jpg)
 
 
 # 解法二：分步操作
 
 在商详只沟通方案信息，选择方案后，分步选择“车型”、“外观”、“内饰”等车辆属性。保证用户聚焦在当前页面。两个解法都进行了信息分级分层，解决了方案沟通混乱的问题，解法一更适合高效决策的租车场景，解法二信息分步展示，决策链长，更适合重决策如买车业务，考虑到目前业务以租车为主，买车不走线上交易流程，所以选择了解法一。
 
-![image](https://cdn-mineru.openxlab.org.cn/result/2026-06-03/4ab29d5e-d39b-4b1a-b846-ea0e69c08958/40ff005311e6b019d9448a02b8bc23d5a985bcf5964f98e98c39a04c4d53ce75.jpg)
+![image](assets/cxd-f58c39/image-018.jpg)
 
 
 # 2. 首屏决策效率
@@ -200,24 +200,24 @@
 
 用更科技化的手段，提升用户看车感官刺激。
 
-![image](https://cdn-mineru.openxlab.org.cn/result/2026-06-03/4ab29d5e-d39b-4b1a-b846-ea0e69c08958/20f044ce32961bc1293e66c8bd9362a3b3af01fba3962a9b234cc9c8c2a1ff6c.jpg)
+![image](assets/cxd-f58c39/image-019.jpg)
 
 
 
 服务卖点
 
 
-![image](https://cdn-mineru.openxlab.org.cn/result/2026-06-03/4ab29d5e-d39b-4b1a-b846-ea0e69c08958/f4c3816e60cc422e8bcf3e7c1a6b48fe392feae3a291465c11e8b8d53cbfec91.jpg)
+![image](assets/cxd-f58c39/image-020.jpg)
 
 
-![image](https://cdn-mineru.openxlab.org.cn/result/2026-06-03/4ab29d5e-d39b-4b1a-b846-ea0e69c08958/7c4c5dd2ca7a255a15b0a2826f92bd269f307d3891d4c7892ee85ddcffe9ce71.jpg)
+![image](assets/cxd-f58c39/image-021.jpg)
 
 
 
 车型卖点
 
 
-![image](https://cdn-mineru.openxlab.org.cn/result/2026-06-03/4ab29d5e-d39b-4b1a-b846-ea0e69c08958/627cb0eee20d0ed161bd1be46e5c15bb68702e56745582e9f94e600cf1179d5b.jpg)
+![image](assets/cxd-f58c39/image-022.jpg)
 
 
 
@@ -238,7 +238,7 @@
 
 私人管家1对1线上讲解服务提升看车体验，实时解答用户疑问并真实的用视频直播的形式，给用户看到真实的车辆。
 
-![image](https://cdn-mineru.openxlab.org.cn/result/2026-06-03/4ab29d5e-d39b-4b1a-b846-ea0e69c08958/64a011fb44c80acb12613f9f24d4c0ada5ebaa156cd72fba41533fc571bd0a91.jpg)
+![image](assets/cxd-f58c39/image-023.jpg)
 
 
 # 六. 设计风格重构，提升科技感和统一性
@@ -247,7 +247,7 @@
 
 改版前icon风格各异，没有按照使用场景进行分类。改版后，将非行动点icon弱化，降低视觉比重，统一为线状icon，并且在色调上也更靠近冷酷的科技色；
 
-![image](https://cdn-mineru.openxlab.org.cn/result/2026-06-03/4ab29d5e-d39b-4b1a-b846-ea0e69c08958/7a67740839ee1af6ebf765b9c120294ac54da889ee8c07de16447a4e7927b93b.jpg)
+![image](assets/cxd-f58c39/image-024.jpg)
 
 
 # 2. 设计规范

@@ -23,40 +23,40 @@
 
 ## 原文图片
 
-![原文图片 1](https://image.uisdc.com/wp-content/uploads/2025/10/ysbanner-20251026-2-1.webp)
+![原文图片 1](assets/baidu-vip-2/image-001.webp)
 
-![原文图片 2](https://image.uisdc.com/wp-content/uploads/2025/10/uisdc-bd-20251026-1.webp)
+![原文图片 2](assets/baidu-vip-2/image-002.webp)
 
-![原文图片 3](https://image.uisdc.com/wp-content/uploads/2025/10/uisdc-bd-20251026-2.webp)
+![原文图片 3](assets/baidu-vip-2/image-003.webp)
 
-![原文图片 4](https://image.uisdc.com/wp-content/uploads/2025/10/uisdc-bd-20251026-3.webp)
+![原文图片 4](assets/baidu-vip-2/image-004.webp)
 
-![原文图片 5](https://image.uisdc.com/wp-content/uploads/2025/10/uisdc-bd-20251026-4.webp)
+![原文图片 5](assets/baidu-vip-2/image-005.webp)
 
-![原文图片 6](https://image.uisdc.com/wp-content/uploads/2025/10/uisdc-bd-20251026-5.webp)
+![原文图片 6](assets/baidu-vip-2/image-006.webp)
 
-![原文图片 7](https://image.uisdc.com/wp-content/uploads/2025/10/uisdc-bd-20251026-6.webp)
+![原文图片 7](assets/baidu-vip-2/image-007.webp)
 
-![原文图片 8](https://image.uisdc.com/wp-content/uploads/2025/10/uisdc-bd-20251026-7.webp)
+![原文图片 8](assets/baidu-vip-2/image-008.webp)
 
-![原文图片 9](https://image.uisdc.com/wp-content/uploads/2025/10/uisdc-bd-20251026-8.webp)
+![原文图片 9](assets/baidu-vip-2/image-009.webp)
 
-![原文图片 10](https://image.uisdc.com/wp-content/uploads/2025/10/uisdc-bd-20251026-9.webp)
+![原文图片 10](assets/baidu-vip-2/image-010.webp)
 
-![原文图片 11](https://image.uisdc.com/wp-content/uploads/2025/10/uisdc-bd-20251026-10.webp)
+![原文图片 11](assets/baidu-vip-2/image-011.webp)
 
-![原文图片 12](https://image.uisdc.com/wp-content/uploads/2025/10/uisdc-bd-20251026-11.webp)
+![原文图片 12](assets/baidu-vip-2/image-012.webp)
 
-![原文图片 13](https://image.uisdc.com/wp-content/uploads/2025/10/uisdc-bd-20251026-12.webp)
+![原文图片 13](assets/baidu-vip-2/image-013.webp)
 
-![原文图片 14](https://image.uisdc.com/wp-content/uploads/2025/10/uisdc-bd-20251026-13.webp)
+![原文图片 14](assets/baidu-vip-2/image-014.webp)
 
-![原文图片 15](https://image.uisdc.com/wp-content/uploads/2025/10/uisdc-bd-20251026-14.webp)
+![原文图片 15](assets/baidu-vip-2/image-015.webp)
 
-![原文图片 16](https://image.uisdc.com/wp-content/uploads/2025/10/uisdc-bd-20251026-15.webp)
+![原文图片 16](assets/baidu-vip-2/image-016.webp)
 
-![原文图片 17](https://image.uisdc.com/wp-content/uploads/2025/10/uisdc-bc-20251026-1.webp)
+![原文图片 17](assets/baidu-vip-2/image-017.webp)
 
-![原文图片 18](https://image.uisdc.com/wp-content/uploads/2020/10/qrbdmeux.jpg)
+![原文图片 18](assets/baidu-vip-2/image-018.jpg)
 
-![原文图片 19](https://image.uisdc.com/wp-content/uploads/2026/04/20260410-uisdcbanner-aikt.webp)
+![原文图片 19](assets/baidu-vip-2/image-019.webp)

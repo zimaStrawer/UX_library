@@ -10,7 +10,7 @@
 
 设计以业务提转为目标，基于百度APP内场域多、流量类型复杂的特殊情况，推进百度优选黄金购买链路全域框架统一、链路精简、页面优化，不断沉淀设计经验。
 
-![image](https://cdn-mineru.openxlab.org.cn/result/2026-06-03/1e301e0e-054e-41e9-a77b-97e454deb99c/33a4c1cf8f726db0703dd66df6bb0ccb712d1a6ae5af203da0560a18f1ae27fd.jpg)
+![image](assets/meux-90683d/image-001.jpg)
 
 
 ## 二、全域框架分场景收敛
@@ -25,7 +25,7 @@
 
 ## 全域框架分场景收敛
 
-![image](https://cdn-mineru.openxlab.org.cn/result/2026-06-03/1e301e0e-054e-41e9-a77b-97e454deb99c/9b7072acaede23c09e26e0854f48ba52729987525c6a22ab0eef40b978d33cdf.jpg)
+![image](assets/meux-90683d/image-002.jpg)
 
 
 ## 三、下单链路分流量合并
@@ -44,24 +44,24 @@
 BEFORE 需要3步完成购买 步骤长
 
 
-![image](https://cdn-mineru.openxlab.org.cn/result/2026-06-03/1e301e0e-054e-41e9-a77b-97e454deb99c/abd4dfeff44796774cd2b24f2b60f703ddad72c39fa715732619efcbc5982657.jpg)
+![image](assets/meux-90683d/image-003.jpg)
 
 
-![image](https://cdn-mineru.openxlab.org.cn/result/2026-06-03/1e301e0e-054e-41e9-a77b-97e454deb99c/ab90dd2bff158398ce357be1e996d8a2511473ba9f010099f82739bf528d13c2.jpg)
+![image](assets/meux-90683d/image-004.jpg)
 
 
 
 规格
 
 
-![image](https://cdn-mineru.openxlab.org.cn/result/2026-06-03/1e301e0e-054e-41e9-a77b-97e454deb99c/698a2c8eeb70bbe1cfd33b019e53c9e8d3b73e83458ebcaa9f57333469290c42.jpg)
+![image](assets/meux-90683d/image-005.jpg)
 
 
 
 提单
 
 
-![image](https://cdn-mineru.openxlab.org.cn/result/2026-06-03/1e301e0e-054e-41e9-a77b-97e454deb99c/1b0b2a28cd0533fa8a4f384e4ad4c8485f942cb7799aaaca33f4483c16cefe46.jpg)
+![image](assets/meux-90683d/image-006.jpg)
 
 
 
@@ -76,14 +76,14 @@ AFTER 2步完成购买 减步长
 自然流量场景
 
 
-![image](https://cdn-mineru.openxlab.org.cn/result/2026-06-03/1e301e0e-054e-41e9-a77b-97e454deb99c/f78d60a6e166f7693cb0ab1b8f398e7b981be4785e6cf13f6ee347329903ddf9.jpg)
+![image](assets/meux-90683d/image-007.jpg)
 
 
 
 规格
 
 
-![image](https://cdn-mineru.openxlab.org.cn/result/2026-06-03/1e301e0e-054e-41e9-a77b-97e454deb99c/a52d45319c0fa2911dc502adde6e33a33329ad1c5d3631f48ecfa771f9832eeb.jpg)
+![image](assets/meux-90683d/image-008.jpg)
 
 
 
@@ -94,14 +94,14 @@ AFTER 2步完成购买 减步长
 广告流量场景
 
 
-![image](https://cdn-mineru.openxlab.org.cn/result/2026-06-03/1e301e0e-054e-41e9-a77b-97e454deb99c/329c68e964a76a8f640d9ca56819de84a112361c3bd1dfdb3fe2a3717f5b7c35.jpg)
+![image](assets/meux-90683d/image-009.jpg)
 
 
 
 规格+提单
 
 
-![image](https://cdn-mineru.openxlab.org.cn/result/2026-06-03/1e301e0e-054e-41e9-a77b-97e454deb99c/f360f265acac56bba361084548949eb3f6aa06e52fe8d41fa61b69cbe9030d00.jpg)
+![image](assets/meux-90683d/image-010.jpg)
 
 
 
@@ -118,7 +118,7 @@ AFTER 2步完成购买 减步长
 
 ## 基于消费者浏览动线升级商品信息结构
 
-![image](https://cdn-mineru.openxlab.org.cn/result/2026-06-03/1e301e0e-054e-41e9-a77b-97e454deb99c/d2eb2eab8a85122bcf396c1f2a07de56bea082976b46cae9389a4171f33455e4.jpg)
+![image](assets/meux-90683d/image-011.jpg)
 
 
 
@@ -145,7 +145,7 @@ AFTER 2步完成购买 减步长
 
 消费者购物环节兴趣焦点
 
-![image](https://cdn-mineru.openxlab.org.cn/result/2026-06-03/1e301e0e-054e-41e9-a77b-97e454deb99c/68c82e69f6c3b1a098d01db77da103e5fc07bc2e0dfff798e92fe57830479c75.jpg)
+![image](assets/meux-90683d/image-012.jpg)
 
 
 
@@ -176,21 +176,21 @@ AFTER 2步完成购买 减步长
 
 - 全屏框架：更适合1:1大图容器，能让消费者有更宽阔的视角看商品细节。
 
-![image](https://cdn-mineru.openxlab.org.cn/result/2026-06-03/1e301e0e-054e-41e9-a77b-97e454deb99c/4e2c47c3d5abbd890eb29bf9499d863a2f786eee6ce3f7d42315c1f9cca610ea.jpg)
+![image](assets/meux-90683d/image-013.jpg)
 
 
 
 调配图文比例 提高首屏效率
 
 
-![image](https://cdn-mineru.openxlab.org.cn/result/2026-06-03/1e301e0e-054e-41e9-a77b-97e454deb99c/197f2033e8d5ae3631b5b44d42cbe5bae54fe9130d3b8502403a3a14a3cdf8f1.jpg)
+![image](assets/meux-90683d/image-014.jpg)
 
 
 
 半层框架 4:3图 无极划动
 
 
-![image](https://cdn-mineru.openxlab.org.cn/result/2026-06-03/1e301e0e-054e-41e9-a77b-97e454deb99c/3603d55b35288409b0a36efe2f99c5f7d835a8e16c408c4d01e67274757f4bf7.jpg)
+![image](assets/meux-90683d/image-015.jpg)
 
 
 
@@ -203,33 +203,33 @@ AFTER 2步完成购买 减步长
 
 - 规格页：深入选款时，因用户在前置链路，如直播、短视频、商详等已经详细做过了解，当前需快速提供更多决策点，如不同款式的图片、价格、搭配热卖等卖点，一步式迅速决策。
 
-![image](https://cdn-mineru.openxlab.org.cn/result/2026-06-03/1e301e0e-054e-41e9-a77b-97e454deb99c/eccd68006ba861e9fcdd6e16f90474a8c2a07ad12e7f15c0617c8a829428aaa0.jpg)
+![image](assets/meux-90683d/image-016.jpg)
 
 
 
 好用的看选款规格 提高决策效率
 
 
-![image](https://cdn-mineru.openxlab.org.cn/result/2026-06-03/1e301e0e-054e-41e9-a77b-97e454deb99c/5e0885574fa8c22f9fc5ff7864929bc06b93ab8ac8de2520a3429142a9d7b854.jpg)
+![image](assets/meux-90683d/image-017.jpg)
 
 
-![image](https://cdn-mineru.openxlab.org.cn/result/2026-06-03/1e301e0e-054e-41e9-a77b-97e454deb99c/cd65afeda53dc0db6a19fc988c2b042f02194fc95a7ee635e98f758c4d704cdd.jpg)
+![image](assets/meux-90683d/image-018.jpg)
 
 
-![image](https://cdn-mineru.openxlab.org.cn/result/2026-06-03/1e301e0e-054e-41e9-a77b-97e454deb99c/2775088ce01edd95ee7db5536d863533890e35a5de1b93476fc669a44d5ed3e3.jpg)
+![image](assets/meux-90683d/image-019.jpg)
 
 
-![image](https://cdn-mineru.openxlab.org.cn/result/2026-06-03/1e301e0e-054e-41e9-a77b-97e454deb99c/b2f83c62c1d2e2a48064f85539e5b792fe0d2dcbf8847c1d40f032cc9086c8cc.jpg)
+![image](assets/meux-90683d/image-020.jpg)
 
 
 
 商详 看款预览
 
 
-![image](https://cdn-mineru.openxlab.org.cn/result/2026-06-03/1e301e0e-054e-41e9-a77b-97e454deb99c/ccbe138998c1b02a8bc1f8d7a4862d9738ecbf90be5b9674c98515582f03af5d.jpg)
+![image](assets/meux-90683d/image-021.jpg)
 
 
-![image](https://cdn-mineru.openxlab.org.cn/result/2026-06-03/1e301e0e-054e-41e9-a77b-97e454deb99c/f3dfaf7038365098855acbb187580b62590c7549c3620e1253de4e357c5f49e2.jpg)
+![image](assets/meux-90683d/image-022.jpg)
 
 
 
@@ -242,47 +242,47 @@ AFTER 2步完成购买 减步长
 
 基于商品优势，多维度、有侧重地将决策信息排列组合，如强价格可用价格卖点加强表述、强服务可用服务保障加强表述、强口碑可表达榜单和多维卖点、强营销可强化营销活动等，进而让关键信息脱颖而出。
 
-![image](https://cdn-mineru.openxlab.org.cn/result/2026-06-03/1e301e0e-054e-41e9-a77b-97e454deb99c/997c4aad5431a1ade78d1629287b054e575d4aa85f85f2f45a4c21f7ab931591.jpg)
+![image](assets/meux-90683d/image-023.jpg)
 
 
 
 多决策信息精准承接 促转化
 
 
-![image](https://cdn-mineru.openxlab.org.cn/result/2026-06-03/1e301e0e-054e-41e9-a77b-97e454deb99c/2fc57b361fc2054a207dce5132f8a874c4ecdd1b638e59108f40c64c8cbec5a7.jpg)
+![image](assets/meux-90683d/image-024.jpg)
 
 
 
 A强价格 强化价格力度
 
 
-![image](https://cdn-mineru.openxlab.org.cn/result/2026-06-03/1e301e0e-054e-41e9-a77b-97e454deb99c/88c62a2093628c0ceca5141639806e3fdf990a828b2d6bfd74e34ec87f6db75b.jpg)
+![image](assets/meux-90683d/image-025.jpg)
 
 
 
 C 强口碑 强化榜单卖点
 
 
-![image](https://cdn-mineru.openxlab.org.cn/result/2026-06-03/1e301e0e-054e-41e9-a77b-97e454deb99c/7d910b21d24442eff68ea506bdf891d99149d3171ecb2c0f27f184dcedec55ec.jpg)
+![image](assets/meux-90683d/image-026.jpg)
 
 
 
 B 强服务 强化服务保障
 
 
-![image](https://cdn-mineru.openxlab.org.cn/result/2026-06-03/1e301e0e-054e-41e9-a77b-97e454deb99c/aef0dc6355492ca6ba90f10989383ad559f8ba0891fc71f706bbdecb06aab129.jpg)
+![image](assets/meux-90683d/image-027.jpg)
 
 
 
 D强营销 强化营销优惠
 
 
-![image](https://cdn-mineru.openxlab.org.cn/result/2026-06-03/1e301e0e-054e-41e9-a77b-97e454deb99c/9a4db008fba59e5302c93620a378104d39e32fc0b94b3cfd6bd18a4f2a6a1a5e.jpg)
+![image](assets/meux-90683d/image-028.jpg)
 
 
 商品售卖阶段，从商品上新、起量、热销到尾声的不同环节，商品详情页不仅是产品信息的展示窗口，更是构建商品氛围与购买决策的催化剂。通过营造“新品、优选、爆品”从轻到强的商品热卖氛围，构建有吸引力的购物体验，进而提升商品的整体感知价值与转化率。
 
-![image](https://cdn-mineru.openxlab.org.cn/result/2026-06-03/1e301e0e-054e-41e9-a77b-97e454deb99c/ba07aa6d0d66fe8dbec20406235389dbe03f4234ea7702ddac937e59b93717b6.jpg)
+![image](assets/meux-90683d/image-029.jpg)
 
 
 ## 写在最后
@@ -299,7 +299,7 @@ D强营销 强化营销优惠
 
 以下文章，你可能也感兴趣
 
-![image](https://cdn-mineru.openxlab.org.cn/result/2026-06-03/1e301e0e-054e-41e9-a77b-97e454deb99c/3ba0ea5008e63c2bd3a208121a309268030e2c40199aa955bf8c64c20562166f.jpg)
+![image](assets/meux-90683d/image-030.jpg)
 
 
 探究大学生眼中理想的AI对话产品

@@ -23,40 +23,40 @@
 
 ## 原文图片
 
-![原文图片 1](https://image.uisdc.com/wp-content/uploads/2025/11/ysbanner-20251110-2-1.webp)
+![原文图片 1](assets/ai-travel-assistant/image-001.webp)
 
-![原文图片 2](https://image.uisdc.com/wp-content/uploads/2025/11/uisdc-lc-20251109-1.webp)
+![原文图片 2](assets/ai-travel-assistant/image-002.webp)
 
-![原文图片 3](https://image.uisdc.com/wp-content/uploads/2025/11/uisdc-lc-20251109-3.webp)
+![原文图片 3](assets/ai-travel-assistant/image-003.webp)
 
-![原文图片 4](https://image.uisdc.com/wp-content/uploads/2025/11/uisdc-lc-20251109-5.webp)
+![原文图片 4](assets/ai-travel-assistant/image-004.webp)
 
-![原文图片 5](https://image.uisdc.com/wp-content/uploads/2025/11/uisdc-lc-20251109-6.webp)
+![原文图片 5](assets/ai-travel-assistant/image-005.webp)
 
-![原文图片 6](https://image.uisdc.com/wp-content/uploads/2025/11/uisdc-lc-20251109-7.webp)
+![原文图片 6](assets/ai-travel-assistant/image-006.webp)
 
-![原文图片 7](https://image.uisdc.com/wp-content/uploads/2025/11/uisdc-lc-20251109-8.webp)
+![原文图片 7](assets/ai-travel-assistant/image-007.webp)
 
-![原文图片 8](https://image.uisdc.com/wp-content/uploads/2025/11/uisdc-lc-20251109-9.webp)
+![原文图片 8](assets/ai-travel-assistant/image-008.webp)
 
-![原文图片 9](https://image.uisdc.com/wp-content/uploads/2025/11/uisdc-lc-20251109-10.webp)
+![原文图片 9](assets/ai-travel-assistant/image-009.webp)
 
-![原文图片 10](https://image.uisdc.com/wp-content/uploads/2025/11/uisdc-lc-20251109-11.webp)
+![原文图片 10](assets/ai-travel-assistant/image-010.webp)
 
-![原文图片 11](https://image.uisdc.com/wp-content/uploads/2025/11/uisdc-lc-20251109-12.webp)
+![原文图片 11](assets/ai-travel-assistant/image-011.webp)
 
-![原文图片 12](https://image.uisdc.com/wp-content/uploads/2025/11/uisdc-lc-20251109-2.webp)
+![原文图片 12](assets/ai-travel-assistant/image-012.webp)
 
-![原文图片 13](https://image.uisdc.com/wp-content/uploads/2025/11/uisdc-lc-20251109-13.webp)
+![原文图片 13](assets/ai-travel-assistant/image-013.webp)
 
-![原文图片 14](https://image.uisdc.com/wp-content/uploads/2025/11/uisdc-lc-20251109-14.webp)
+![原文图片 14](assets/ai-travel-assistant/image-014.webp)
 
-![原文图片 15](https://image.uisdc.com/wp-content/uploads/2025/11/uisdc-lc-20251109-15.webp)
+![原文图片 15](assets/ai-travel-assistant/image-015.webp)
 
-![原文图片 16](https://image.uisdc.com/wp-content/uploads/2025/11/uisdc-lc-20251109-4.webp)
+![原文图片 16](assets/ai-travel-assistant/image-016.webp)
 
-![原文图片 17](https://image.uisdc.com/wp-content/uploads/2025/11/uisdc-lc-20251109-16.webp)
+![原文图片 17](assets/ai-travel-assistant/image-017.webp)
 
-![原文图片 18](https://image.uisdc.com/wp-content/uploads/2022/07/uisdc-yy-20220726-16.jpg)
+![原文图片 18](assets/ai-travel-assistant/image-018.jpg)
 
-![原文图片 19](https://image.uisdc.com/wp-content/uploads/2026/04/20260410-uisdcbanner-aikt.webp)
+![原文图片 19](assets/ai-travel-assistant/image-019.webp)

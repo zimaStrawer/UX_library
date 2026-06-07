@@ -25,64 +25,64 @@ APP 反馈设计方法，适合沉淀操作反馈、状态告知和异常处理�
 
 ## 原文图片
 
-![原文图片 1](https://image.uisdc.com/wp-content/uploads/2021/09/uisdc-fk-20210920-1.jpg)
+![原文图片 1](assets/app-feedback-design/image-001.jpg)
 
-![原文图片 2](https://image.uisdc.com/wp-content/uploads/2021/09/uisdc-fk-20210920-2.jpg)
+![原文图片 2](assets/app-feedback-design/image-002.jpg)
 
-![原文图片 3](https://image.uisdc.com/wp-content/uploads/2021/09/uisdc-fk-20210920-3.jpg)
+![原文图片 3](assets/app-feedback-design/image-003.jpg)
 
-![原文图片 4](https://image.uisdc.com/wp-content/uploads/2021/09/uisdc-fk-20210920-4.jpg)
+![原文图片 4](assets/app-feedback-design/image-004.jpg)
 
-![原文图片 5](https://image.uisdc.com/wp-content/uploads/2021/09/uisdc-fk-20210920-5.jpg)
+![原文图片 5](assets/app-feedback-design/image-005.jpg)
 
-![原文图片 6](https://image.uisdc.com/wp-content/uploads/2021/09/uisdc-fk-20210920-6.jpg)
+![原文图片 6](assets/app-feedback-design/image-006.jpg)
 
-![原文图片 7](https://image.uisdc.com/wp-content/uploads/2021/09/uisdc-fk-20210920-7.jpg)
+![原文图片 7](assets/app-feedback-design/image-007.jpg)
 
-![原文图片 8](https://image.uisdc.com/wp-content/uploads/2021/09/uisdc-fk-20210920-8.jpg)
+![原文图片 8](assets/app-feedback-design/image-008.jpg)
 
-![原文图片 9](https://image.uisdc.com/wp-content/uploads/2021/09/uisdc-fk-20210920-9.jpg)
+![原文图片 9](assets/app-feedback-design/image-009.jpg)
 
-![原文图片 10](https://image.uisdc.com/wp-content/uploads/2021/09/uisdc-fk-20210920-10.jpg)
+![原文图片 10](assets/app-feedback-design/image-010.jpg)
 
-![原文图片 11](https://image.uisdc.com/wp-content/uploads/2021/09/uisdc-fk-20210920-11.jpg)
+![原文图片 11](assets/app-feedback-design/image-011.jpg)
 
-![原文图片 12](https://image.uisdc.com/wp-content/uploads/2021/09/uisdc-fk-20210920-12.jpg)
+![原文图片 12](assets/app-feedback-design/image-012.jpg)
 
-![原文图片 13](https://image.uisdc.com/wp-content/uploads/2021/09/uisdc-fk-20210920-13.jpg)
+![原文图片 13](assets/app-feedback-design/image-013.jpg)
 
-![原文图片 14](https://image.uisdc.com/wp-content/uploads/2021/09/uisdc-fk-20210920-14.gif)
+![原文图片 14](assets/app-feedback-design/image-014.gif)
 
-![原文图片 15](https://image.uisdc.com/wp-content/uploads/2021/09/uisdc-fk-20210920-15.gif)
+![原文图片 15](assets/app-feedback-design/image-015.gif)
 
-![原文图片 16](https://image.uisdc.com/wp-content/uploads/2021/09/uisdc-fk-20210920-16.jpg)
+![原文图片 16](assets/app-feedback-design/image-016.jpg)
 
-![原文图片 17](https://image.uisdc.com/wp-content/uploads/2021/09/uisdc-fk-20210920-17.jpg)
+![原文图片 17](assets/app-feedback-design/image-017.jpg)
 
-![原文图片 18](https://image.uisdc.com/wp-content/uploads/2021/09/uisdc-fk-20210920-18.jpg)
+![原文图片 18](assets/app-feedback-design/image-018.jpg)
 
-![原文图片 19](https://image.uisdc.com/wp-content/uploads/2021/09/uisdc-fk-20210920-19.jpg)
+![原文图片 19](assets/app-feedback-design/image-019.jpg)
 
-![原文图片 20](https://image.uisdc.com/wp-content/uploads/2021/09/uisdc-fk-20210920-20.jpg)
+![原文图片 20](assets/app-feedback-design/image-020.jpg)
 
-![原文图片 21](https://image.uisdc.com/wp-content/uploads/2021/09/uisdc-fk-20210920-21.jpg)
+![原文图片 21](assets/app-feedback-design/image-021.jpg)
 
-![原文图片 22](https://image.uisdc.com/wp-content/uploads/2021/09/uisdc-fk-20210920-22.jpg)
+![原文图片 22](assets/app-feedback-design/image-022.jpg)
 
-![原文图片 23](https://image.uisdc.com/wp-content/uploads/2021/09/uisdc-fk-20210920-23.jpg)
+![原文图片 23](assets/app-feedback-design/image-023.jpg)
 
-![原文图片 24](https://image.uisdc.com/wp-content/uploads/2021/09/uisdc-fk-20210920-24.jpg)
+![原文图片 24](assets/app-feedback-design/image-024.jpg)
 
-![原文图片 25](https://image.uisdc.com/wp-content/uploads/2021/09/uisdc-fk-20210920-25.jpg)
+![原文图片 25](assets/app-feedback-design/image-025.jpg)
 
-![原文图片 26](https://image.uisdc.com/wp-content/uploads/2021/09/uisdc-fk-20210920-26.jpg)
+![原文图片 26](assets/app-feedback-design/image-026.jpg)
 
-![原文图片 27](https://image.uisdc.com/wp-content/uploads/2021/09/uisdc-fk-20210920-27.jpg)
+![原文图片 27](assets/app-feedback-design/image-027.jpg)
 
-![原文图片 28](https://image.uisdc.com/wp-content/uploads/2021/09/uisdc-fk-20210920-28.gif)
+![原文图片 28](assets/app-feedback-design/image-028.gif)
 
-![原文图片 29](https://image.uisdc.com/wp-content/uploads/2021/09/uisdc-fk-20210920-29.jpg)
+![原文图片 29](assets/app-feedback-design/image-029.jpg)
 
-![原文图片 30](https://image.uisdc.com/wp-content/uploads/2020/07/uisdc-bc-ew-20200723-1.jpg)
+![原文图片 30](assets/app-feedback-design/image-030.jpg)
 
-![原文图片 31](https://image.uisdc.com/wp-content/uploads/2026/04/20260410-uisdcbanner-aikt.webp)
+![原文图片 31](assets/app-feedback-design/image-031.webp)

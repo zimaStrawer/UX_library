@@ -12,7 +12,7 @@
 
 ## Part 1 「划不走的语音条」
 
-![image](https://cdn-mineru.openxlab.org.cn/result/2026-06-03/726e247c-61e4-4c04-adbf-13ca21ef882d/03aa06d47ee896dc9f12f073eac4da92b14f06458f2bd1c70020b0b96217985c.jpg)
+![image](assets/douyin_design-0e6125/image-001.jpg)
 
 
 
@@ -27,14 +27,14 @@
 
 ## ■ 打破规范，情感化表达
 
-![image](https://cdn-mineru.openxlab.org.cn/result/2026-06-03/726e247c-61e4-4c04-adbf-13ca21ef882d/09c13e969edfc51104ae7ddd84b7f53968c7a56404beba91a9813fbaccc0f3f1.jpg)
+![image](assets/douyin_design-0e6125/image-002.jpg)
 
 
 
 规范
 
 
-![image](https://cdn-mineru.openxlab.org.cn/result/2026-06-03/726e247c-61e4-4c04-adbf-13ca21ef882d/8515adb3ebdfb8287ee81b2978ebfae8fda6a7926581af24741df5c5fcec7a32.jpg)
+![image](assets/douyin_design-0e6125/image-003.jpg)
 
 
 
@@ -47,13 +47,13 @@
 
 ## ■ 多感官维度信息表达
 
-![image](https://cdn-mineru.openxlab.org.cn/result/2026-06-03/726e247c-61e4-4c04-adbf-13ca21ef882d/d0821ced44cf0b53fa6b4ffd397d18c6f52034474ad6cba6e24f47673398c9a8.jpg)
+![image](assets/douyin_design-0e6125/image-004.jpg)
 
 
-![image](https://cdn-mineru.openxlab.org.cn/result/2026-06-03/726e247c-61e4-4c04-adbf-13ca21ef882d/fc33f1009df4588afa1cc5e098fc309354e9a5922fe1e10e6debf2ad5c0879c4.jpg)
+![image](assets/douyin_design-0e6125/image-005.jpg)
 
 
-![image](https://cdn-mineru.openxlab.org.cn/result/2026-06-03/726e247c-61e4-4c04-adbf-13ca21ef882d/421b5e0c8b493211b43a6ffe38e1043fc380da05b999bf14c954d5c4bb1a70bc.jpg)
+![image](assets/douyin_design-0e6125/image-006.jpg)
 
 
 
@@ -64,21 +64,21 @@
 
 ## 信息内容的情绪递进
 
-![image](https://cdn-mineru.openxlab.org.cn/result/2026-06-03/726e247c-61e4-4c04-adbf-13ca21ef882d/0c721213e2d701dd54aa8ee1e718da89dbe1cc9fa60eddfba0994c1a1ac57296.jpg)
+![image](assets/douyin_design-0e6125/image-007.jpg)
 
 
 
 划动1次
 
 
-![image](https://cdn-mineru.openxlab.org.cn/result/2026-06-03/726e247c-61e4-4c04-adbf-13ca21ef882d/4f985fec61e963be326440f56aebe30beca27d04de66f61daebaa60932a1e68f.jpg)
+![image](assets/douyin_design-0e6125/image-008.jpg)
 
 
 
 00:08
 
 
-![image](https://cdn-mineru.openxlab.org.cn/result/2026-06-03/726e247c-61e4-4c04-adbf-13ca21ef882d/332f787deee1babdf01124c0fe772d90602cc8b44ea70f36592d7f1dd64db977.jpg)
+![image](assets/douyin_design-0e6125/image-009.jpg)
 
 
 
@@ -93,14 +93,14 @@
 
 最终呈现的划不走的语音条方案如下：
 
-![image](https://cdn-mineru.openxlab.org.cn/result/2026-06-03/726e247c-61e4-4c04-adbf-13ca21ef882d/632034f3ec2d909150b106bbc169fce5c017010a2f3662faf36221dbc6f97638.jpg)
+![image](assets/douyin_design-0e6125/image-010.jpg)
 
 
 
 Part 2 「蒙层方案」
 
 
-![image](https://cdn-mineru.openxlab.org.cn/result/2026-06-03/726e247c-61e4-4c04-adbf-13ca21ef882d/71c06e4816cd90401ac608a87d52c31aed776d8fec3139800e347a2c0b73510d.jpg)
+![image](assets/douyin_design-0e6125/image-011.jpg)
 
 
 优化前的蒙层方案，主要问题有：
@@ -113,31 +113,31 @@ Part 2 「蒙层方案」
 
 ## ■ 视频承接，弹窗落地
 
-![image](https://cdn-mineru.openxlab.org.cn/result/2026-06-03/726e247c-61e4-4c04-adbf-13ca21ef882d/ecdae8ae8da2b0e8b8862d50a0f918f85dffadf1563ad9fe49f90bdacf9a34aa.jpg)
+![image](assets/douyin_design-0e6125/image-012.jpg)
 
 
 结合抖音视频消费的属性，通过视频形式承接最终落地成小窗样式，减少突然出现弹窗打断用户沉浸消费所造成的用户体验问题。
 
 视频到蒙层的承接，是我们本次方案的亮点。其实亮点不仅是这样一个承接方式，更多的是创造了一种内容消费的场景，以及为蒙层赋能了一种承载更多内容的形式。
 
-![image](https://cdn-mineru.openxlab.org.cn/result/2026-06-03/726e247c-61e4-4c04-adbf-13ca21ef882d/e4218b023b2d2a52bd2a4233377f4c680499eca252974cb30295040249e9fd0f.jpg)
+![image](assets/douyin_design-0e6125/image-013.jpg)
 
 
 
 缩放形式【主推】
 
 
-![image](https://cdn-mineru.openxlab.org.cn/result/2026-06-03/726e247c-61e4-4c04-adbf-13ca21ef882d/66294f37426b36c4ad4860bb0bede7fd76fa0fb6f87a930878c73224f539e3d3.jpg)
+![image](assets/douyin_design-0e6125/image-014.jpg)
 
 
 
 引导用户需从沉浸在事物本身到跳脱出来
 
 
-![image](https://cdn-mineru.openxlab.org.cn/result/2026-06-03/726e247c-61e4-4c04-adbf-13ca21ef882d/173374a4092f84c4e77d3b76e58e6982360b397ac2b1255b93169cb42b24e633.jpg)
+![image](assets/douyin_design-0e6125/image-015.jpg)
 
 
-![image](https://cdn-mineru.openxlab.org.cn/result/2026-06-03/726e247c-61e4-4c04-adbf-13ca21ef882d/e8b5743d401fb08f173e615591694e12894f11a423327f0fa2db6977551b207a.jpg)
+![image](assets/douyin_design-0e6125/image-016.jpg)
 
 
 
@@ -156,7 +156,7 @@ Part 2 「蒙层方案」
 
 我们打造了这样一个消费内容的场景「蒙层面板」，它的优点就是具有较强的可拓展性。目前蒙层面板上都承载哪类内容呢？
 
-![image](https://cdn-mineru.openxlab.org.cn/result/2026-06-03/726e247c-61e4-4c04-adbf-13ca21ef882d/ff90c8810c64d6cf18aa86cbaded14d2b198dfe07fcba92c1d44e9ff96865c47.jpg)
+![image](assets/douyin_design-0e6125/image-017.jpg)
 
 
 
@@ -167,7 +167,7 @@ Part 2 「蒙层方案」
 
 第一类，也就是我们一开始的想法，承载2d、3d等几何图形或简单视觉元素，通过缩放，最终落在蒙层上面成为其一部分。希望通过简单视觉元素的动效转变，让蒙层的出现更缓和、有趣。
 
-![image](https://cdn-mineru.openxlab.org.cn/result/2026-06-03/726e247c-61e4-4c04-adbf-13ca21ef882d/5d3496e330f87c63f8790946601403322165a01a359230e4ada5813508fc41d9.jpg)
+![image](assets/douyin_design-0e6125/image-018.jpg)
 
 
 ## 视频类
@@ -178,7 +178,7 @@ Part 2 「蒙层方案」
 
 第二类，是承载视频内容。这部分目前想法是承载公益类视频内容，如寻人启事类，认识自然类等具有社会价值的内容，助力企业社会责任的承担。
 
-![image](https://cdn-mineru.openxlab.org.cn/result/2026-06-03/726e247c-61e4-4c04-adbf-13ca21ef882d/abd9d57dccb1590fb4d16b043512e0e121ab626b5b96bc8bc6c44bff0a33d254.jpg)
+![image](assets/douyin_design-0e6125/image-019.jpg)
 
 
 ## 插画类
@@ -195,4 +195,4 @@ Part 2 「蒙层方案」
 
 ## 抖音设计岗位热招中～扫码查看心仪岗位
 
-![image](https://cdn-mineru.openxlab.org.cn/result/2026-06-03/726e247c-61e4-4c04-adbf-13ca21ef882d/54355e968b465bebb18b69a6f9e8eb34055b916e2490a30b89ca1f39fdf78ef9.jpg)
+![image](assets/douyin_design-0e6125/image-020.jpg)

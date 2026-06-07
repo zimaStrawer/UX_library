@@ -19,38 +19,38 @@
 
 ## 原文图片
 
-![原文图片 1](https://image.uisdc.com/wp-content/uploads/2026/01/ysbanner-20260112-3-1.webp)
+![原文图片 1](assets/human-centric-ai-design/image-001.webp)
 
-![原文图片 2](https://image.uisdc.com/wp-content/uploads/2026/01/811f6581c1a5f87b67d3922d763222fd.webp)
+![原文图片 2](assets/human-centric-ai-design/image-002.webp)
 
-![原文图片 3](https://image.uisdc.com/wp-content/uploads/2026/01/uisdc-ss-20260112-2.webp)
+![原文图片 3](assets/human-centric-ai-design/image-003.webp)
 
-![原文图片 4](https://image.uisdc.com/wp-content/uploads/2026/01/66edf295e9a95f2599fce595c0ec61d3.webp)
+![原文图片 4](assets/human-centric-ai-design/image-004.webp)
 
-![原文图片 5](https://image.uisdc.com/wp-content/uploads/2026/01/53a3a1ca139c51d45dbb47ceb8ee21bd.webp)
+![原文图片 5](assets/human-centric-ai-design/image-005.webp)
 
-![原文图片 6](https://image.uisdc.com/wp-content/uploads/2026/01/f72dc1a998aeadac707454ad1ef82b3f.webp)
+![原文图片 6](assets/human-centric-ai-design/image-006.webp)
 
-![原文图片 7](https://image.uisdc.com/wp-content/uploads/2026/01/d8f713ac33783aafb8b4f101cf6527a1.webp)
+![原文图片 7](assets/human-centric-ai-design/image-007.webp)
 
-![原文图片 8](https://image.uisdc.com/wp-content/uploads/2026/01/e61500a1e344b2d6003fa05b7a1a8e34.webp)
+![原文图片 8](assets/human-centric-ai-design/image-008.webp)
 
-![原文图片 9](https://image.uisdc.com/wp-content/uploads/2026/01/846c0ac94e7c06cdbb9edbb47c1265e6.webp)
+![原文图片 9](assets/human-centric-ai-design/image-009.webp)
 
-![原文图片 10](https://image.uisdc.com/wp-content/uploads/2026/01/8ddda12728246280fc51507be6c4e4f7.webp)
+![原文图片 10](assets/human-centric-ai-design/image-010.webp)
 
-![原文图片 11](https://image.uisdc.com/wp-content/uploads/2026/01/9c75a1a87b2a2cfc26e51bdfb447821e.webp)
+![原文图片 11](assets/human-centric-ai-design/image-011.webp)
 
-![原文图片 12](https://image.uisdc.com/wp-content/uploads/2026/01/def1143d4738be474bf712ec3bfabe5a.webp)
+![原文图片 12](assets/human-centric-ai-design/image-012.webp)
 
-![原文图片 13](https://image.uisdc.com/wp-content/uploads/2026/01/0c60676d34c80b6e6d3fe29c70f7376d.webp)
+![原文图片 13](assets/human-centric-ai-design/image-013.webp)
 
-![原文图片 14](https://image.uisdc.com/wp-content/uploads/2026/01/5dd766f6559383cf490aa593e31fff78.webp)
+![原文图片 14](assets/human-centric-ai-design/image-014.webp)
 
-![原文图片 15](https://image.uisdc.com/wp-content/uploads/2026/01/d358c1ee7db2b5027d65c9d2da4c4c52.webp)
+![原文图片 15](assets/human-centric-ai-design/image-015.webp)
 
-![原文图片 16](https://image.uisdc.com/wp-content/uploads/2026/01/ff502c7644227af3d1717440d5d390bd.webp)
+![原文图片 16](assets/human-centric-ai-design/image-016.webp)
 
-![原文图片 17](https://image.uisdc.com/wp-content/uploads/2026/01/1309b72d2ce753ae8d1de43f2d1056e5.webp)
+![原文图片 17](assets/human-centric-ai-design/image-017.webp)
 
-![原文图片 18](https://image.uisdc.com/wp-content/uploads/2026/04/20260410-uisdcbanner-aikt.webp)
+![原文图片 18](assets/human-centric-ai-design/image-018.webp)

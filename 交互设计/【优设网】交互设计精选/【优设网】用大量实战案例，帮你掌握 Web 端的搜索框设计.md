@@ -25,80 +25,80 @@ Web 搜索框设计案例，适合沉淀搜索入口、联想、历史与结果�
 
 ## 原文图片
 
-![原文图片 1](https://image.uisdc.com/wp-content/uploads/2021/10/uisdc-ss-20211012-1.jpg)
+![原文图片 1](assets/search-frame-design/image-001.jpg)
 
-![原文图片 2](https://image.uisdc.com/wp-content/uploads/2021/10/uisdc-ss-20211012-2.jpg)
+![原文图片 2](assets/search-frame-design/image-002.jpg)
 
-![原文图片 3](https://image.uisdc.com/wp-content/uploads/2021/10/uisdc-ss-20211012-3.jpg)
+![原文图片 3](assets/search-frame-design/image-003.jpg)
 
-![原文图片 4](https://image.uisdc.com/wp-content/uploads/2021/10/uisdc-ss-20211012-4.jpg)
+![原文图片 4](assets/search-frame-design/image-004.jpg)
 
-![原文图片 5](https://image.uisdc.com/wp-content/uploads/2021/10/uisdc-ss-20211012-5.jpg)
+![原文图片 5](assets/search-frame-design/image-005.jpg)
 
-![原文图片 6](https://image.uisdc.com/wp-content/uploads/2021/10/uisdc-ss-20211012-6.jpg)
+![原文图片 6](assets/search-frame-design/image-006.jpg)
 
-![原文图片 7](https://image.uisdc.com/wp-content/uploads/2021/10/uisdc-ss-20211012-7.jpg)
+![原文图片 7](assets/search-frame-design/image-007.jpg)
 
-![原文图片 8](https://image.uisdc.com/wp-content/uploads/2021/10/uisdc-ss-20211012-8.jpg)
+![原文图片 8](assets/search-frame-design/image-008.jpg)
 
-![原文图片 9](https://image.uisdc.com/wp-content/uploads/2021/10/uisdc-ss-20211012-9.jpg)
+![原文图片 9](assets/search-frame-design/image-009.jpg)
 
-![原文图片 10](https://image.uisdc.com/wp-content/uploads/2021/10/uisdc-ss-20211012-10.jpg)
+![原文图片 10](assets/search-frame-design/image-010.jpg)
 
-![原文图片 11](https://image.uisdc.com/wp-content/uploads/2021/10/uisdc-ss-20211012-11.gif)
+![原文图片 11](assets/search-frame-design/image-011.gif)
 
-![原文图片 12](https://image.uisdc.com/wp-content/uploads/2021/10/uisdc-ss-20211012-12.jpg)
+![原文图片 12](assets/search-frame-design/image-012.jpg)
 
-![原文图片 13](https://image.uisdc.com/wp-content/uploads/2021/10/uisdc-ss-20211012-13.gif)
+![原文图片 13](assets/search-frame-design/image-013.gif)
 
-![原文图片 14](https://image.uisdc.com/wp-content/uploads/2021/10/uisdc-ss-20211012-14.gif)
+![原文图片 14](assets/search-frame-design/image-014.gif)
 
-![原文图片 15](https://image.uisdc.com/wp-content/uploads/2021/10/uisdc-ss-20211012-15.jpg)
+![原文图片 15](assets/search-frame-design/image-015.jpg)
 
-![原文图片 16](https://image.uisdc.com/wp-content/uploads/2021/10/uisdc-ss-20211012-16.jpg)
+![原文图片 16](assets/search-frame-design/image-016.jpg)
 
-![原文图片 17](https://image.uisdc.com/wp-content/uploads/2021/10/uisdc-ss-20211012-17.gif)
+![原文图片 17](assets/search-frame-design/image-017.gif)
 
-![原文图片 18](https://image.uisdc.com/wp-content/uploads/2021/10/uisdc-ss-20211012-18.jpg)
+![原文图片 18](assets/search-frame-design/image-018.jpg)
 
-![原文图片 19](https://image.uisdc.com/wp-content/uploads/2021/10/uisdc-ss-20211012-19.jpg)
+![原文图片 19](assets/search-frame-design/image-019.jpg)
 
-![原文图片 20](https://image.uisdc.com/wp-content/uploads/2021/10/uisdc-ss-20211012-20.jpg)
+![原文图片 20](assets/search-frame-design/image-020.jpg)
 
-![原文图片 21](https://image.uisdc.com/wp-content/uploads/2021/10/uisdc-ss-20211012-21.jpg)
+![原文图片 21](assets/search-frame-design/image-021.jpg)
 
-![原文图片 22](https://image.uisdc.com/wp-content/uploads/2021/10/uisdc-ss-20211012-22.jpg)
+![原文图片 22](assets/search-frame-design/image-022.jpg)
 
-![原文图片 23](https://image.uisdc.com/wp-content/uploads/2021/10/uisdc-ss-20211012-23.jpg)
+![原文图片 23](assets/search-frame-design/image-023.jpg)
 
-![原文图片 24](https://image.uisdc.com/wp-content/uploads/2021/10/uisdc-ss-20211012-24.jpg)
+![原文图片 24](assets/search-frame-design/image-024.jpg)
 
-![原文图片 25](https://image.uisdc.com/wp-content/uploads/2021/10/uisdc-ss-20211012-25.jpg)
+![原文图片 25](assets/search-frame-design/image-025.jpg)
 
-![原文图片 26](https://image.uisdc.com/wp-content/uploads/2021/10/uisdc-ss-20211012-26.jpg)
+![原文图片 26](assets/search-frame-design/image-026.jpg)
 
-![原文图片 27](https://image.uisdc.com/wp-content/uploads/2021/10/uisdc-ss-20211012-27.jpg)
+![原文图片 27](assets/search-frame-design/image-027.jpg)
 
-![原文图片 28](https://image.uisdc.com/wp-content/uploads/2021/10/uisdc-ss-20211012-28.jpg)
+![原文图片 28](assets/search-frame-design/image-028.jpg)
 
-![原文图片 29](https://image.uisdc.com/wp-content/uploads/2021/10/uisdc-ss-20211012-29.jpg)
+![原文图片 29](assets/search-frame-design/image-029.jpg)
 
-![原文图片 30](https://image.uisdc.com/wp-content/uploads/2021/10/uisdc-ss-20211012-30.jpg)
+![原文图片 30](assets/search-frame-design/image-030.jpg)
 
-![原文图片 31](https://image.uisdc.com/wp-content/uploads/2021/10/uisdc-ss-20211012-31.jpg)
+![原文图片 31](assets/search-frame-design/image-031.jpg)
 
-![原文图片 32](https://image.uisdc.com/wp-content/uploads/2021/10/uisdc-ss-20211012-32.jpg)
+![原文图片 32](assets/search-frame-design/image-032.jpg)
 
-![原文图片 33](https://image.uisdc.com/wp-content/uploads/2021/10/uisdc-ss-20211012-33.jpg)
+![原文图片 33](assets/search-frame-design/image-033.jpg)
 
-![原文图片 34](https://image.uisdc.com/wp-content/uploads/2021/10/uisdc-ss-20211012-34.jpg)
+![原文图片 34](assets/search-frame-design/image-034.jpg)
 
-![原文图片 35](https://image.uisdc.com/wp-content/uploads/2021/10/uisdc-ss-20211012-35.jpg)
+![原文图片 35](assets/search-frame-design/image-035.jpg)
 
-![原文图片 36](https://image.uisdc.com/wp-content/uploads/2021/10/uisdc-ss-20211012-36.jpg)
+![原文图片 36](assets/search-frame-design/image-036.jpg)
 
-![原文图片 37](https://image.uisdc.com/wp-content/uploads/2021/10/uisdc-ss-20211012-38.gif)
+![原文图片 37](assets/search-frame-design/image-037.gif)
 
-![原文图片 38](https://image.uisdc.com/wp-content/uploads/2021/10/uisdc-ss-20211012-39.jpg)
+![原文图片 38](assets/search-frame-design/image-038.jpg)
 
-![原文图片 39](https://image.uisdc.com/wp-content/uploads/2026/04/20260410-uisdcbanner-aikt.webp)
+![原文图片 39](assets/search-frame-design/image-039.webp)

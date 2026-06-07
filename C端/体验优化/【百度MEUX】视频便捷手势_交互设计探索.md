@@ -12,42 +12,42 @@
 单击 $\rightarrow$ 暂停
 
 
-![image](https://cdn-mineru.openxlab.org.cn/result/2026-06-03/8f42fbac-343f-49c7-90ed-1327c280bed6/ff0571a87bd481f6adf80ad24564a329c559e4713215bcc1d2faed99ef9dd541.jpg)
+![image](assets/meux-_-9165f5/image-001.jpg)
 
 
 
 双击 $\rightarrow$ 点赞
 
 
-![image](https://cdn-mineru.openxlab.org.cn/result/2026-06-03/8f42fbac-343f-49c7-90ed-1327c280bed6/99e3eb1374992b228e6930cc245f11e13ff92339e52930a598a2b0146c37c4b0.jpg)
+![image](assets/meux-_-9165f5/image-002.jpg)
 
 
 
 长按 -> 快进
 
 
-![image](https://cdn-mineru.openxlab.org.cn/result/2026-06-03/8f42fbac-343f-49c7-90ed-1327c280bed6/45c7bffcd972474ce3fca893d5161195b69a68e1f46a5b204f76bf71dbd1a447.jpg)
+![image](assets/meux-_-9165f5/image-003.jpg)
 
 
 
 横滑 -> 导航
 
 
-![image](https://cdn-mineru.openxlab.org.cn/result/2026-06-03/8f42fbac-343f-49c7-90ed-1327c280bed6/425c00dde632c0c30fc19fa7808dc4cf378259d864eb30ac9ad728f1b5f8d500.jpg)
+![image](assets/meux-_-9165f5/image-004.jpg)
 
 
 
 纵滑 $\rightarrow$ 切视频
 
 
-![image](https://cdn-mineru.openxlab.org.cn/result/2026-06-03/8f42fbac-343f-49c7-90ed-1327c280bed6/1154aa54cd96c6ccd7132d7a80bcb0ff7bad62751e7acfcc54eea62e7a151c11.jpg)
+![image](assets/meux-_-9165f5/image-005.jpg)
 
 
 
 双指捏合 -> 缩放视窗
 
 
-![image](https://cdn-mineru.openxlab.org.cn/result/2026-06-03/8f42fbac-343f-49c7-90ed-1327c280bed6/5bf8b04b36fd50e797885619b06071062db6a4e3b7fa26424b9c000a9e3ef6a2.jpg)
+![image](assets/meux-_-9165f5/image-006.jpg)
 
 
 那么如何在保留用户对于常规通用手势认知的基础上，进一步对视频场景中的手势交互进行扩容升级？这也是我们接下来在手势进阶交互上的重点探索方向。
@@ -60,24 +60,24 @@
 
 以前述的视频场景常规手势为例，其触发机制一般可分为两个阶段：step1交互信号→step2执行任务，即用户通过某一基础手势发出交互信号，系统收到信号确认后便可立即执行任务，但整个过程是线性的，手势扩展性十分有限且难以满足视频场景对于手势扩容的诉求。
 
-![image](https://cdn-mineru.openxlab.org.cn/result/2026-06-03/8f42fbac-343f-49c7-90ed-1327c280bed6/c659a95c3de81ec322ed1a367b95a1985a4a1aa2859b660aa92cfff1b6f060bb.jpg)
+![image](assets/meux-_-9165f5/image-007.jpg)
 
 
 # 常规基础手势 触发机制
 
-![image](https://cdn-mineru.openxlab.org.cn/result/2026-06-03/8f42fbac-343f-49c7-90ed-1327c280bed6/5f4eae332192b64e630a16613e6fc3b86f2a9bb7752af84b2ce388bea3e89fbd.jpg)
+![image](assets/meux-_-9165f5/image-008.jpg)
 
 
 于是我们在现有常规手势两阶段触发机制的基础上，尝试引入「意图识别」环节，并梳理出「组合手势」的设计模型，以探索不同基础手势相互组合后的扩展可行性。
 
 「组合手势」触发一般可分为三个阶段：step1交互信号→step2意图识别→step3执行任务，前两阶段均可由对应的基础分支手势构成并进行组合搭配、以寻求最高效的手势组合触发路径。
 
-![image](https://cdn-mineru.openxlab.org.cn/result/2026-06-03/8f42fbac-343f-49c7-90ed-1327c280bed6/f90614dd3bff6f12785b84f979bfdb24d5d7e94d86793e9938b132d253684662.jpg)
+![image](assets/meux-_-9165f5/image-009.jpg)
 
 
 # 组合手势 设计模型
 
-![image](https://cdn-mineru.openxlab.org.cn/result/2026-06-03/8f42fbac-343f-49c7-90ed-1327c280bed6/9db27bda8e3b71aa83580850fd390896570f047deab80ba02fe0e6b9b1976fa2.jpg)
+![image](assets/meux-_-9165f5/image-010.jpg)
 
 
 由于「组合手势」并不像常规手势那样早已被系统定义为可供直接调用的接口，因此，其差异化创新具有较大设计灵活度，尤其需根据具体的使用场景进行综合考量。
@@ -90,20 +90,20 @@
 
 随着后续视频场景的功能建设日渐完善，我们便在基础菜单面板中拓展了一行视频菜单，专门用于承载视频场景特有的播控功能。但当前播控功能已达10余项，菜单面板弹出后还需左滑才可露出后面的功能入口，因此也常收到用户反馈找不到常用功能、菜单面板功能排布无章且触发成本高。
 
-![image](https://cdn-mineru.openxlab.org.cn/result/2026-06-03/8f42fbac-343f-49c7-90ed-1327c280bed6/13d83beacbc3b101b6d837920275faf0dfbb34f618ffd759521cc1eea71244d2.jpg)
+![image](assets/meux-_-9165f5/image-011.jpg)
 
 
 # 2.竞品调研及选型
 
 通过对竞品进行调研，我们发现竞品均有使用长按手势作为切入口以触发相关播控功能、并归纳出“视频播控触发”目前主流的三种长按交互选型，分别为：长按触发独立播控面板、长按触发浮层播控选项、长按触发特定播控功能。
 
-![image](https://cdn-mineru.openxlab.org.cn/result/2026-06-03/8f42fbac-343f-49c7-90ed-1327c280bed6/62ede303331bb62891fc1bd0cefe60ad486fd74838f98689f31f336b4ac75ebd.jpg)
+![image](assets/meux-_-9165f5/image-012.jpg)
 
 
-![image](https://cdn-mineru.openxlab.org.cn/result/2026-06-03/8f42fbac-343f-49c7-90ed-1327c280bed6/ff741de91bbc58d8742128eb87152df706d92f556bcc8f7d42e31e3e95f10179.jpg)
+![image](assets/meux-_-9165f5/image-013.jpg)
 
 
-![image](https://cdn-mineru.openxlab.org.cn/result/2026-06-03/8f42fbac-343f-49c7-90ed-1327c280bed6/8d7f744ecb0d7b78a02c105db1a8e090dbdafff1b4ed93b017fa8b51a293b321.jpg)
+![image](assets/meux-_-9165f5/image-014.jpg)
 
 
 # 选型A
@@ -136,7 +136,7 @@ step2：若用户未松开手指，则系统默认开始识别用户意图，是
 
 step3：用户滑选锚定至目标功能后，松手释放即可完成最后的功能执行确认。
 
-![image](https://cdn-mineru.openxlab.org.cn/result/2026-06-03/8f42fbac-343f-49c7-90ed-1327c280bed6/7338d01cd8dccbf7ab2a585ead3f201b4fff9f8b564640bafb377dd80b746541.jpg)
+![image](assets/meux-_-9165f5/image-015.jpg)
 
 
 「长按+向上滑选」快捷触发对应功能项；
@@ -147,21 +147,21 @@ step3：用户滑选锚定至目标功能后，松手释放即可完成最后的
 「长按+向上滑选」快捷触发对应功能项
 
 
-![image](https://cdn-mineru.openxlab.org.cn/result/2026-06-03/8f42fbac-343f-49c7-90ed-1327c280bed6/393cb0131cc36af74cf23f52948b1ad0e5a94b43c3a167e1f514671607e7ccb2.jpg)
+![image](assets/meux-_-9165f5/image-016.jpg)
 
 
 
 「长按+向下滑选」快捷触发“快进播放”
 
 
-![image](https://cdn-mineru.openxlab.org.cn/result/2026-06-03/8f42fbac-343f-49c7-90ed-1327c280bed6/c73eb1d3c2a3cc2e9af7d78f4973abd506580bab35c111afb86c6dea077f7e78.jpg)
+![image](assets/meux-_-9165f5/image-017.jpg)
 
 
 # 2）容错性兼容
 
 在设定「长按+滑选」组合手势的同时，考虑到兼容主流的长按习惯、以及对于滑选手势需要有一定的适应过程，我们同时也支持点选的操作模式，即用户长按后若未产生滑选行为便松手，则松手后依然可通过点选的方式触发对应播控功能项。
 
-![image](https://cdn-mineru.openxlab.org.cn/result/2026-06-03/8f42fbac-343f-49c7-90ed-1327c280bed6/2690100683a838fb3b1c72981169a75e0dda95dc4f0ede4fc9edf9d902c37eb7.jpg)
+![image](assets/meux-_-9165f5/image-018.jpg)
 
 
 # 3）易用性打磨
@@ -170,14 +170,14 @@ step3：用户滑选锚定至目标功能后，松手释放即可完成最后的
 
 我们根据测试目标、用户类别、测试前序准备及测试步骤等环节提前拟好必要的测试脚本，并邀请了10+名不同年龄段的目标用户进行访谈测试。
 
-![image](https://cdn-mineru.openxlab.org.cn/result/2026-06-03/8f42fbac-343f-49c7-90ed-1327c280bed6/8930eaeefee0917795ffbfa93b5ef58e2cb0b21dfe81f4aa679f4ae624e31e0d.jpg)
+![image](assets/meux-_-9165f5/image-019.jpg)
 
 
 # 测试脚本拟定
 
 TEST SCRIPT PREPARATION 
 
-![image](https://cdn-mineru.openxlab.org.cn/result/2026-06-03/8f42fbac-343f-49c7-90ed-1327c280bed6/a737063158965274589cac39985e0bfbbdda00c701a30aedea4319fb65013c20.jpg)
+![image](assets/meux-_-9165f5/image-020.jpg)
 
 
 
@@ -204,33 +204,33 @@ TEST SCRIPT PREPARATION
 
 考虑到单手握持手机的使用场景，可尽可能扩大定义长按手势的触发热区，屏幕中除顶/底bar框架区以及本身就自带长按事件的按钮入口之外，其它大面积区域热区均可支持长按触发快捷菜单，以降低触发难度、提升易用性。
 
-![image](https://cdn-mineru.openxlab.org.cn/result/2026-06-03/8f42fbac-343f-49c7-90ed-1327c280bed6/15ab5c87bdd56d8d6f1ff44b8c73a1233a3316ac4fb191a70996dc318081da81.jpg)
+![image](assets/meux-_-9165f5/image-021.jpg)
 
 
-![image](https://cdn-mineru.openxlab.org.cn/result/2026-06-03/8f42fbac-343f-49c7-90ed-1327c280bed6/a2d6fa5bc523fa8c299ecbc987f54ef258e39e5de5e7ccd1b0a7e4a06493a606.jpg)
+![image](assets/meux-_-9165f5/image-022.jpg)
 
 
 # 3.2）支持跟手触发：
 
 长按后浮出的快捷功能项，其浮出位置支持跟随手指的纵向触发位置而浮出，可减少手指在屏幕上的位移距离、操控更便捷。
 
-![image](https://cdn-mineru.openxlab.org.cn/result/2026-06-03/8f42fbac-343f-49c7-90ed-1327c280bed6/95723e6a973a707f6fd788dee49e0d4db6e25aed6cb46e4b1065973cdb2a2189.jpg)
+![image](assets/meux-_-9165f5/image-023.jpg)
 
 
-![image](https://cdn-mineru.openxlab.org.cn/result/2026-06-03/8f42fbac-343f-49c7-90ed-1327c280bed6/6e005aa52a2e7984ec22d01782cf6127f055c51a7f2fa31c98ff2a8b264b1a17.jpg)
+![image](assets/meux-_-9165f5/image-024.jpg)
 
 
-![image](https://cdn-mineru.openxlab.org.cn/result/2026-06-03/8f42fbac-343f-49c7-90ed-1327c280bed6/e2b503c0ec3e4b77ce97f0bb3c94e2f7fa5479aabd409811549e17a3c1a4b893.jpg)
+![image](assets/meux-_-9165f5/image-025.jpg)
 
 
 # 3.3）实时提示及响应反馈：
 
 灵活判断当前手势触控状态（如滑入选择 / 松手触发），在界面中即时给出相对应的引导提示或振感反馈，以帮助用户快速适应新的手势触发机制。
 
-![image](https://cdn-mineru.openxlab.org.cn/result/2026-06-03/8f42fbac-343f-49c7-90ed-1327c280bed6/fe84cbfd42a7af1a252903eec7bf609a64805656c8cb263b532674eb2290cec6.jpg)
+![image](assets/meux-_-9165f5/image-026.jpg)
 
 
-![image](https://cdn-mineru.openxlab.org.cn/result/2026-06-03/8f42fbac-343f-49c7-90ed-1327c280bed6/40fc45207d5dd5d4ccf1a849c6610c36079f96ecf38178db865d65b3a50f3f1d.jpg)
+![image](assets/meux-_-9165f5/image-027.jpg)
 
 
 # - 方案上线及验证
@@ -247,23 +247,23 @@ TEST SCRIPT PREPARATION
 
 「实验组」的“快进”虽多了一步触发步长，实验前期“快进”使用率不及「对照组」，但随着用户对于「长按+滑选」手势整体的使用占比持续走高，通过滑选触发“快进”的操作习惯也快速被培养起来，对于用户来说，长按快捷菜单带来的整体收益是大于折损的。
 
-![image](https://cdn-mineru.openxlab.org.cn/result/2026-06-03/8f42fbac-343f-49c7-90ed-1327c280bed6/b2d1ebc1c6b3a9c690ebf8359bc7b4c5d7154c97a0989600bcdd85d929aaae4d.jpg)
+![image](assets/meux-_-9165f5/image-028.jpg)
 
 
-![image](https://cdn-mineru.openxlab.org.cn/result/2026-06-03/8f42fbac-343f-49c7-90ed-1327c280bed6/fa5a42dbc1c504b8f06c7a11a2e2d4f7e885fba88a7d69e6d3d2392b35ef8eed.jpg)
+![image](assets/meux-_-9165f5/image-029.jpg)
 
 
 # - 二期扩展方案
 
 随着长按快捷菜单的上线推全，长按手势的渗透率也持续走高，用户逐渐对视频场景更多的播控功能有了长按触发的诉求，于是我们对长按菜单进行了二期的设计升级，在长按浮层最右侧新增“更多”快捷入口以承接视频场景所有的播控功能，用户通过长按后的可选播控项增多，播控功能整体的使用量得到进一步提升。
 
-![image](https://cdn-mineru.openxlab.org.cn/result/2026-06-03/8f42fbac-343f-49c7-90ed-1327c280bed6/6df49a1e6b626545fc0e357c93c286f3f245d540d74732fcbda29c6912010557.jpg)
+![image](assets/meux-_-9165f5/image-030.jpg)
 
 
-![image](https://cdn-mineru.openxlab.org.cn/result/2026-06-03/8f42fbac-343f-49c7-90ed-1327c280bed6/3902ff7f869f17346cc0d0e6621e5a9c5e9e71f9200726552bcdcafa27a1f734.jpg)
+![image](assets/meux-_-9165f5/image-031.jpg)
 
 
-![image](https://cdn-mineru.openxlab.org.cn/result/2026-06-03/8f42fbac-343f-49c7-90ed-1327c280bed6/715906aa22c726e24e9c6e2fa0183ba6e2b905a7a64545d86df04abf15a0888b.jpg)
+![image](assets/meux-_-9165f5/image-032.jpg)
 
 
 # 四、「组合手势」拓展探索
@@ -278,17 +278,17 @@ TEST SCRIPT PREPARATION
 
 基于用户的此种操控意图，我们以“右滑返回手势”发出交互信号而触发浮出小窗入口，随后系统根据用户“纵向拖拽手势”的行为来判断其是否有激活小窗的意图，若有短距上滑拖拽行为，松手释放即可快捷激活视频小窗，以提升观看体验的连续性。
 
-![image](https://cdn-mineru.openxlab.org.cn/result/2026-06-03/8f42fbac-343f-49c7-90ed-1327c280bed6/7b5c6761979d06d380d1b980052109a13159a0b7c91428a621c75654623a3df2.jpg)
+![image](assets/meux-_-9165f5/image-033.jpg)
 
 
 # 2. 「双指手势」激活“满屏播放”
 
 “双指拖拽手势”可拖拽并清屏视窗画面，以此手势发出交互信号，若在“双指拖拽手势”基础上有识别到“双指扩张手势”行为，则松手释放即可快捷激活“满屏播放”，以满足更沉浸视频浏览体验。
 
-![image](https://cdn-mineru.openxlab.org.cn/result/2026-06-03/8f42fbac-343f-49c7-90ed-1327c280bed6/4d2ad88d514d0dd472ac66a4d0aff14690d814cee379cda999a3cf565c8790f7.jpg)
+![image](assets/meux-_-9165f5/image-034.jpg)
 
 
-![image](https://cdn-mineru.openxlab.org.cn/result/2026-06-03/8f42fbac-343f-49c7-90ed-1327c280bed6/7eae9e0bedbf1dc36ace41236badb566f280d1fe785fd0a5b3ac450ead58b587.jpg)
+![image](assets/meux-_-9165f5/image-035.jpg)
 
 
 # 五、结语
@@ -305,7 +305,7 @@ TEST SCRIPT PREPARATION
 
 以下文章，你可能也感兴趣
 
-![image](https://cdn-mineru.openxlab.org.cn/result/2026-06-03/8f42fbac-343f-49c7-90ed-1327c280bed6/bcc2f707d1a10027d3b987d4401544885be4f7ad4765ad789635d81c80e81565.jpg)
+![image](assets/meux-_-9165f5/image-036.jpg)
 
 
 书香四溢-百度小说运营活动视觉升级
@@ -318,7 +318,7 @@ TEST SCRIPT PREPARATION
 
 B端设计愁？掌握这三步，XYZ轴为你解忧
 
-![image](https://cdn-mineru.openxlab.org.cn/result/2026-06-03/8f42fbac-343f-49c7-90ed-1327c280bed6/216ec983ee036b8225f6a150ae28d02ea7718dbd939fb28ff27c97349ce88801.jpg)
+![image](assets/meux-_-9165f5/image-037.jpg)
 
 
 # 百度MEUX

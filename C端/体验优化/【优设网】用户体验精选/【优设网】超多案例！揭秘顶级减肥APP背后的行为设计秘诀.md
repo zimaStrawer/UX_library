@@ -23,34 +23,34 @@
 
 ## 原文图片
 
-![原文图片 1](https://image.uisdc.com/wp-content/uploads/2025/10/ysbanner-20251031-2-1.webp)
+![原文图片 1](assets/top-weight-management-apps/image-001.webp)
 
-![原文图片 2](https://image.uisdc.com/wp-content/uploads/2025/10/kf2-uisdc.webp)
+![原文图片 2](assets/top-weight-management-apps/image-002.webp)
 
-![原文图片 3](https://image.uisdc.com/wp-content/uploads/2025/10/kf3-uisdc.webp)
+![原文图片 3](assets/top-weight-management-apps/image-003.webp)
 
-![原文图片 4](https://image.uisdc.com/wp-content/uploads/2025/10/kf4-uisdc.webp)
+![原文图片 4](assets/top-weight-management-apps/image-004.webp)
 
-![原文图片 5](https://image.uisdc.com/wp-content/uploads/2025/10/kf5-uisdc.webp)
+![原文图片 5](assets/top-weight-management-apps/image-005.webp)
 
-![原文图片 6](https://image.uisdc.com/wp-content/uploads/2025/10/kf6-uisdc.webp)
+![原文图片 6](assets/top-weight-management-apps/image-006.webp)
 
-![原文图片 7](https://image.uisdc.com/wp-content/uploads/2025/10/kf7-uisdc.webp)
+![原文图片 7](assets/top-weight-management-apps/image-007.webp)
 
-![原文图片 8](https://image.uisdc.com/wp-content/uploads/2025/10/kf8-uisdc.webp)
+![原文图片 8](assets/top-weight-management-apps/image-008.webp)
 
-![原文图片 9](https://image.uisdc.com/wp-content/uploads/2025/10/kf9-uisdc.webp)
+![原文图片 9](assets/top-weight-management-apps/image-009.webp)
 
-![原文图片 10](https://image.uisdc.com/wp-content/uploads/2025/10/kf10-uisdc.webp)
+![原文图片 10](assets/top-weight-management-apps/image-010.webp)
 
-![原文图片 11](https://image.uisdc.com/wp-content/uploads/2025/10/kf11-uisdc.webp)
+![原文图片 11](assets/top-weight-management-apps/image-011.webp)
 
-![原文图片 12](https://image.uisdc.com/wp-content/uploads/2025/10/kf12-uisdc.webp)
+![原文图片 12](assets/top-weight-management-apps/image-012.webp)
 
-![原文图片 13](https://image.uisdc.com/wp-content/uploads/2025/10/kf13-uisdc.webp)
+![原文图片 13](assets/top-weight-management-apps/image-013.webp)
 
-![原文图片 14](https://image.uisdc.com/wp-content/uploads/2025/10/kf14-uisdc.webp)
+![原文图片 14](assets/top-weight-management-apps/image-014.webp)
 
-![原文图片 15](https://image.uisdc.com/wp-content/uploads/fav-pro/pro-icon-3.svg)
+![原文图片 15](assets/top-weight-management-apps/image-015.jpg)
 
-![原文图片 16](https://image.uisdc.com/wp-content/uploads/2026/04/20260410-uisdcbanner-aikt.webp)
+![原文图片 16](assets/top-weight-management-apps/image-016.webp)

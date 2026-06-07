@@ -12,7 +12,7 @@
 
 目前百度APP核心场景存在搜索结果选择多、长文阅读低效、视频获取信息慢等问题，导致用户获取信息效率低。为此，我们运用AI技术对内容进行总结提炼，构建了一个覆盖全场景的通用体验链路，即「捏合前引导 $\rightarrow$ 触发捏合 $\rightarrow$ 内容加载 $\rightarrow$ 结果展现」，以提高用户的信息获取效率。
 
-![image](https://cdn-mineru.openxlab.org.cn/result/2026-06-03/0f68b183-c78b-4ca0-90ca-d7dc926870a2/923c289bd4cf5aff1efb066a3b72e7927265d96b3f52cbb122d0e0aca5b29533.jpg)
+![image](assets/meux-ai-03d74f/image-001.jpg)
 
 
 ## 现状问题
@@ -25,7 +25,7 @@
 搜索结果过多，难抉择
 
 
-![image](https://cdn-mineru.openxlab.org.cn/result/2026-06-03/0f68b183-c78b-4ca0-90ca-d7dc926870a2/dce2ae0e312a71034f24ca34a3a91907d9d5f7dddb0f394f58e107dd572882cb.jpg)
+![image](assets/meux-ai-03d74f/image-002.jpg)
 
 
 
@@ -36,7 +36,7 @@
 内容质量参差，难阅读
 
 
-![image](https://cdn-mineru.openxlab.org.cn/result/2026-06-03/0f68b183-c78b-4ca0-90ca-d7dc926870a2/d2ec17aedf1dc652fe08466bf3d0af88960465a7e4ce52e76a9af0d9322ee1a1.jpg)
+![image](assets/meux-ai-03d74f/image-003.jpg)
 
 
 
@@ -47,7 +47,7 @@
 长文难以迅速抓住要点
 
 
-![image](https://cdn-mineru.openxlab.org.cn/result/2026-06-03/0f68b183-c78b-4ca0-90ca-d7dc926870a2/a4eac6886beb86a4b9ee81e04ff7cb6354863a2bf3982af880acadb4adc11880.jpg)
+![image](assets/meux-ai-03d74f/image-004.jpg)
 
 
 MELIX 
@@ -60,7 +60,7 @@ MELIX
 长视频费时，观看效率低
 
 
-![image](https://cdn-mineru.openxlab.org.cn/result/2026-06-03/0f68b183-c78b-4ca0-90ca-d7dc926870a2/808d508d90f6623aedea7c729962271dbcc9741a1e5d522dfe4625b30bf135f9.jpg)
+![image](assets/meux-ai-03d74f/image-005.jpg)
 
 
 Step 1 
@@ -73,28 +73,28 @@ Step 3
 捏合前引导
 
 
-![image](https://cdn-mineru.openxlab.org.cn/result/2026-06-03/0f68b183-c78b-4ca0-90ca-d7dc926870a2/149b4cb912eac90871720162c82e97502d99d83f47accf350bdf5795b748a3b0.jpg)
+![image](assets/meux-ai-03d74f/image-006.jpg)
 
 
 
 触发捏合
 
 
-![image](https://cdn-mineru.openxlab.org.cn/result/2026-06-03/0f68b183-c78b-4ca0-90ca-d7dc926870a2/b0040ddf724a3b688c7e06fd4f77205343d43b4afad71c086b3b682f8e571b38.jpg)
+![image](assets/meux-ai-03d74f/image-007.jpg)
 
 
 
 内容加载
 
 
-![image](https://cdn-mineru.openxlab.org.cn/result/2026-06-03/0f68b183-c78b-4ca0-90ca-d7dc926870a2/af72653d50ef087423c9d96ec631905734897a887fb77af44a7d655df09f58ce.jpg)
+![image](assets/meux-ai-03d74f/image-008.jpg)
 
 
 
 结果展现
 
 
-![image](https://cdn-mineru.openxlab.org.cn/result/2026-06-03/0f68b183-c78b-4ca0-90ca-d7dc926870a2/14b90f8bc0b53f517a6e0b2a724a4be6a589c75746053799bd81589ccd532f5d.jpg)
+![image](assets/meux-ai-03d74f/image-009.jpg)
 
 
 设计协同业务团队围绕以下3个维度展开探索：
@@ -121,10 +121,10 @@ Step 3
 
 缺点：识别性弱、限制框架信息展示、各场景入口位置不稳定
 
-![image](https://cdn-mineru.openxlab.org.cn/result/2026-06-03/0f68b183-c78b-4ca0-90ca-d7dc926870a2/3b60a02ca10b19064fb0a090cf844c0b51a809caca39afea5610acae6312969e.jpg)
+![image](assets/meux-ai-03d74f/image-010.jpg)
 
 
-![image](https://cdn-mineru.openxlab.org.cn/result/2026-06-03/0f68b183-c78b-4ca0-90ca-d7dc926870a2/e8cd7b6f231e1a50034717099915d8cfab9bff69371581c38804e8e2b86ec4b0.jpg)
+![image](assets/meux-ai-03d74f/image-011.jpg)
 
 
 ## 手势触发
@@ -133,7 +133,7 @@ Step 3
 
 缺点：无外露入口，需要塑造捏合认知及是否有手势冲冲突
 
-![image](https://cdn-mineru.openxlab.org.cn/result/2026-06-03/0f68b183-c78b-4ca0-90ca-d7dc926870a2/a33f13cb8756aff260c2b323476f438c2c52cf327a7c37035d6b70172806cd35.jpg)
+![image](assets/meux-ai-03d74f/image-012.jpg)
 
 
 VS 
@@ -154,10 +154,10 @@ VS
 
 - 图文/动态落地页和小程序页：内容质量较高且用户捏合需求适中或较低，采用弱引导，以保持浏览体验。
 
-![image](https://cdn-mineru.openxlab.org.cn/result/2026-06-03/0f68b183-c78b-4ca0-90ca-d7dc926870a2/62b63f8bad60563d19cbd1e0414e0e1978e3b4f1cbe5880700a64cfa558e9194.jpg)
+![image](assets/meux-ai-03d74f/image-013.jpg)
 
 
-![image](https://cdn-mineru.openxlab.org.cn/result/2026-06-03/0f68b183-c78b-4ca0-90ca-d7dc926870a2/437dda82fe7ba7194397feb9c4fff0c61e73907b2f5ce4f4bdfecd5ab63745dd.jpg)
+![image](assets/meux-ai-03d74f/image-014.jpg)
 
 
 ## 3. 全页面容器 打造沉浸式浏览体验
@@ -168,10 +168,10 @@ VS
 
 用户执行双指捏合手势时，即时的震动反馈确认了操作的成功，此时用户还可以在界面上双指进行自由拖动，这不仅增加了互动乐趣，也让交互过程更加直观和丰富。
 
-![image](https://cdn-mineru.openxlab.org.cn/result/2026-06-03/0f68b183-c78b-4ca0-90ca-d7dc926870a2/5f78a4eb8212292b5be7a383153232aebfefe0dcd9d8fb608b420cccd17e4ead.jpg)
+![image](assets/meux-ai-03d74f/image-015.jpg)
 
 
-![image](https://cdn-mineru.openxlab.org.cn/result/2026-06-03/0f68b183-c78b-4ca0-90ca-d7dc926870a2/b4697d994484c4acbca813cd3fe691d029c1321eb43d60d6825f93af082502ab.jpg)
+![image](assets/meux-ai-03d74f/image-016.jpg)
 
 
 ## 二、打造AI智能化设计语言
@@ -182,13 +182,13 @@ VS
 
 MEUX 
 
-![image](https://cdn-mineru.openxlab.org.cn/result/2026-06-03/0f68b183-c78b-4ca0-90ca-d7dc926870a2/92e3a751630450fe4d09932e81ecd91689011eaa2f90132fd2ab0837bdb52e31.jpg)
+![image](assets/meux-ai-03d74f/image-017.jpg)
 
 
-![image](https://cdn-mineru.openxlab.org.cn/result/2026-06-03/0f68b183-c78b-4ca0-90ca-d7dc926870a2/401d698c9180a774fa98ebd11481d37ce70cf77842803a975b1798a4caf9830d.jpg)
+![image](assets/meux-ai-03d74f/image-018.jpg)
 
 
-![image](https://cdn-mineru.openxlab.org.cn/result/2026-06-03/0f68b183-c78b-4ca0-90ca-d7dc926870a2/4e709ea577d441fe6a7aa3c4284578b463e523a257f9cc422348da4844ea9910.jpg)
+![image](assets/meux-ai-03d74f/image-019.jpg)
 
 
 我们着手从智能符号、渐变色彩、表意动效三方面进行深入细化探索。
@@ -201,10 +201,10 @@ MEUX
 
 通过前期情绪版的构思发现，紫色可以传递科技的智能感觉，我们与百度APP的主题蓝色进行了不同效果的组合尝试，最终确定了蓝粉色的渐变效果，创造出一种现代且具有科技感的视觉效果，同时还能传递出AI产品的亲和力和情感智能，进而在用户心中建立起积极的形象。
 
-![image](https://cdn-mineru.openxlab.org.cn/result/2026-06-03/0f68b183-c78b-4ca0-90ca-d7dc926870a2/b3f261aba698ea0ba13246f5cefaaff6c9490ed6efeaa1b95ddcf735efbd6774.jpg)
+![image](assets/meux-ai-03d74f/image-020.jpg)
 
 
-![image](https://cdn-mineru.openxlab.org.cn/result/2026-06-03/0f68b183-c78b-4ca0-90ca-d7dc926870a2/750d30a3576989897dc81afee27db7f943cde0aa224af965cc44415a9163aeb4.jpg)
+![image](assets/meux-ai-03d74f/image-021.jpg)
 
 
 ## 3. 表意动效 传递AI抽象概念
@@ -229,10 +229,10 @@ MEUX
 
 在总结文本的展示上使用打字机效果，搭配渐进式披露的策略，可以更快速地对生成后的内容进行呈现。相较于逐字打字机效果，这种方式不仅提升了信息展示的效率，还增加了页面的律动感。
 
-![image](https://cdn-mineru.openxlab.org.cn/result/2026-06-03/0f68b183-c78b-4ca0-90ca-d7dc926870a2/4ad8675bb4ea60b1fda4c09e002da67bce3ad1a1e9e5c28e9ebecd1641a7da8e.jpg)
+![image](assets/meux-ai-03d74f/image-022.jpg)
 
 
-![image](https://cdn-mineru.openxlab.org.cn/result/2026-06-03/0f68b183-c78b-4ca0-90ca-d7dc926870a2/1f1b82c0811dc1286f6e255fa524a4a45b21ad4b5e099e31d6966fbb52d30b10.jpg)
+![image](assets/meux-ai-03d74f/image-023.jpg)
 
 
 ## 三、结构化排版促信息获取
@@ -245,14 +245,14 @@ MEUX
 
 通过在页面的多个模块间设置宽敞的间距，使浏览过程更为舒适，同时增强了页面的节奏感和呼吸空间。简约的灰色背景与图标、文字之间形成了鲜明的层级关系，使内容突出而清晰，保证了视觉的统一性和简洁性。
 
-![image](https://cdn-mineru.openxlab.org.cn/result/2026-06-03/0f68b183-c78b-4ca0-90ca-d7dc926870a2/cf363905071d34fefbb925cbaa6aa5c50fe30d23bbb770586ba948dd3cf78a01.jpg)
+![image](assets/meux-ai-03d74f/image-024.jpg)
 
 
 
 结构布局
 
 
-![image](https://cdn-mineru.openxlab.org.cn/result/2026-06-03/0f68b183-c78b-4ca0-90ca-d7dc926870a2/e9c8cb16e9466e10d8ec66a654898d6694d77efe929c7f542afbc963dfc8b162.jpg)
+![image](assets/meux-ai-03d74f/image-025.jpg)
 
 
 ## 2. 内容激发
@@ -269,38 +269,38 @@ MEUX
 内容来源
 
 
-![image](https://cdn-mineru.openxlab.org.cn/result/2026-06-03/0f68b183-c78b-4ca0-90ca-d7dc926870a2/a35129826d5dececad1b97adbb56b47ee6bf65a77f33da86248ce8f2601d6c41.jpg)
+![image](assets/meux-ai-03d74f/image-026.jpg)
 
 
 
 相关推荐
 
 
-![image](https://cdn-mineru.openxlab.org.cn/result/2026-06-03/0f68b183-c78b-4ca0-90ca-d7dc926870a2/ea9e0500288ec20ac85cb4b8de40f81a169251e78bbcdf1e833bc0d811070cd1.jpg)
+![image](assets/meux-ai-03d74f/image-027.jpg)
 
 
 
 大家还在搜
 
 
-![image](https://cdn-mineru.openxlab.org.cn/result/2026-06-03/0f68b183-c78b-4ca0-90ca-d7dc926870a2/40f537daa7ae0e33c0fb7b14bf968afd9371435223bbf5ff82d632a0d5088ed1.jpg)
+![image](assets/meux-ai-03d74f/image-028.jpg)
 
 
-![image](https://cdn-mineru.openxlab.org.cn/result/2026-06-03/0f68b183-c78b-4ca0-90ca-d7dc926870a2/83aafc26b42ba4ec63da277ed19650f39a9699e8d65a1f8749e4a3f5ca94a5b7.jpg)
+![image](assets/meux-ai-03d74f/image-029.jpg)
 
 
 
 相关推荐
 
 
-![image](https://cdn-mineru.openxlab.org.cn/result/2026-06-03/0f68b183-c78b-4ca0-90ca-d7dc926870a2/3d48990cd4ae16e54ea6bf814c369f02f88889f2b6cc09249d6f99d8a4db5693.jpg)
+![image](assets/meux-ai-03d74f/image-030.jpg)
 
 
 
 Q 大家还在搜
 
 
-![image](https://cdn-mineru.openxlab.org.cn/result/2026-06-03/0f68b183-c78b-4ca0-90ca-d7dc926870a2/6dc5544fc2adbcf1f52e1f8dac2d72f6b183424a417df6bad714691d024f0b6a.jpg)
+![image](assets/meux-ai-03d74f/image-031.jpg)
 
 
 (1) 
@@ -337,17 +337,17 @@ MELIX
 图标&分点映射关系
 
 
-![image](https://cdn-mineru.openxlab.org.cn/result/2026-06-03/0f68b183-c78b-4ca0-90ca-d7dc926870a2/90a12b6e269bc452f30bba428e92c304b899c75360c7cdec46963a8622dcfe93.jpg)
+![image](assets/meux-ai-03d74f/image-032.jpg)
 
 
 
 生物类
 
 
-![image](https://cdn-mineru.openxlab.org.cn/result/2026-06-03/0f68b183-c78b-4ca0-90ca-d7dc926870a2/bbf5637763e379edf450b3b670f44aa427ebfd9524adc905a53a81bfef90f400.jpg)
+![image](assets/meux-ai-03d74f/image-033.jpg)
 
 
-![image](https://cdn-mineru.openxlab.org.cn/result/2026-06-03/0f68b183-c78b-4ca0-90ca-d7dc926870a2/1a3315928c3dcbb51f2a6dea25170f88356c62d058688b60d38448373330198d.jpg)
+![image](assets/meux-ai-03d74f/image-034.jpg)
 
 
 
@@ -360,7 +360,7 @@ MELIX
 创新发展类
 
 
-![image](https://cdn-mineru.openxlab.org.cn/result/2026-06-03/0f68b183-c78b-4ca0-90ca-d7dc926870a2/b80ddb53432d158a48e9c8c68117198e0a8f063fb6cea72b2cb4f6d8c72d1ed5.jpg)
+![image](assets/meux-ai-03d74f/image-035.jpg)
 
 
 
@@ -393,7 +393,7 @@ MELIX
 
 MEUX 
 
-![image](https://cdn-mineru.openxlab.org.cn/result/2026-06-03/0f68b183-c78b-4ca0-90ca-d7dc926870a2/286e7cb8a1bd20497294247cc6d85c26064f2e30ff04f8b4f03cb0b7fb17b5cf.jpg)
+![image](assets/meux-ai-03d74f/image-036.jpg)
 
 
 本次项目也使我们对产品AI重构产生了一些新的理解，未来百度APP的AI体验将向着交互方式更加自然、视觉语言更加轻盈的方式进行持续探索，也希望本文能为其他正在进行产品AI重构的设计师们带来一些新的启发。
@@ -408,7 +408,7 @@ MEUX
 
 以下文章，你可能也感兴趣
 
-![image](https://cdn-mineru.openxlab.org.cn/result/2026-06-03/0f68b183-c78b-4ca0-90ca-d7dc926870a2/4244f9729284c113d0db97824885952e94e5362d14322afd4150f0995930195c.jpg)
+![image](assets/meux-ai-03d74f/image-037.jpg)
 
 
 探究大学生眼中理想的AI对话产品

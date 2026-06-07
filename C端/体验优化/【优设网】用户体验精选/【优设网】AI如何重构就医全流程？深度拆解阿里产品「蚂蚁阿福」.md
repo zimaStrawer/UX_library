@@ -23,26 +23,26 @@ AI 重构复杂就医流程，适合沉淀 C 端服务前中后链路
 
 ## 原文图片
 
-![原文图片 1](https://image.uisdc.com/wp-content/uploads/2026/01/ysbanner-20260105-1-1.webp)
+![原文图片 1](assets/ai-health-reimagined/image-001.webp)
 
-![原文图片 2](https://image.uisdc.com/wp-content/uploads/2026/01/a5e65a14501fa68f4c9c7f02cbd5a40f.webp)
+![原文图片 2](assets/ai-health-reimagined/image-002.webp)
 
-![原文图片 3](https://image.uisdc.com/wp-content/uploads/2026/01/825fb0b43239976a6b3104021a25a599.webp)
+![原文图片 3](assets/ai-health-reimagined/image-003.webp)
 
-![原文图片 4](https://image.uisdc.com/wp-content/uploads/2026/01/ac31c93b9532e78ec883f78cb22fc2bc.webp)
+![原文图片 4](assets/ai-health-reimagined/image-004.webp)
 
-![原文图片 5](https://image.uisdc.com/wp-content/uploads/2026/01/b01a0ae20aac15dfdb66f0f193e662ac.webp)
+![原文图片 5](assets/ai-health-reimagined/image-005.webp)
 
-![原文图片 6](https://image.uisdc.com/wp-content/uploads/2026/01/6a21967e65385b39d6e675faf3f85234.webp)
+![原文图片 6](assets/ai-health-reimagined/image-006.webp)
 
-![原文图片 7](https://image.uisdc.com/wp-content/uploads/2026/01/002dd005262676d1f50e26df40081bdb.webp)
+![原文图片 7](assets/ai-health-reimagined/image-007.webp)
 
-![原文图片 8](https://image.uisdc.com/wp-content/uploads/2026/01/aa410207a2e372c64ff189bf5ee15de7.webp)
+![原文图片 8](assets/ai-health-reimagined/image-008.webp)
 
-![原文图片 9](https://image.uisdc.com/wp-content/uploads/2026/01/c0b40cd62286ac20dbe7d7da3c914946.webp)
+![原文图片 9](assets/ai-health-reimagined/image-009.webp)
 
-![原文图片 10](https://image.uisdc.com/wp-content/uploads/2026/01/95aec6fa12818b40798e7011fa235eba.webp)
+![原文图片 10](assets/ai-health-reimagined/image-010.webp)
 
-![原文图片 11](https://image.uisdc.com/wp-content/uploads/2026/01/55d48c359f484b57407c1510724386d4.webp)
+![原文图片 11](assets/ai-health-reimagined/image-011.webp)
 
-![原文图片 12](https://image.uisdc.com/wp-content/uploads/2026/04/20260410-uisdcbanner-aikt.webp)
+![原文图片 12](assets/ai-health-reimagined/image-012.webp)
